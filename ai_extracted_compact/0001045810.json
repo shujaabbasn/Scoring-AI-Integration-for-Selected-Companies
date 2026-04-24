@@ -1,0 +1,112 @@
+{
+  "cik": "0001045810",
+  "filings": {
+    "2018": [
+      {
+        "text": "Starting with a focus on PC graphics, NVIDIA invented the graphics processing unit, or GPU, to solve some of the most complex problems in computer science. We have extended our focus in recent years to the revolutionary field of artificial intelligence, or AI. Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, or VR, high performance computing, or HPC, and AI."
+      },
+      {
+        "text": "The GPU was initially used to simulate human imagination, enabling the virtual worlds of video games and films. Today, it also simulates human intelligence, enabling a deeper understanding of the physical world. Its parallel processing capabilities, supported by up to thousands of computing cores, are essential to running deep learning algorithms. This form of AI, in which software writes itself by learning from data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world. GPU-powered deep learning is being rapidly adopted by thousands of enterprises to deliver services and features that would have been impossible with traditional coding."
+      },
+      {
+        "text": "We have invested over $15 billion in research and development since our inception, yielding inventions that are essential to modern computing. Our invention of the GPU in 1999 defined modern computer graphics and established NVIDIA as the leader in visual computing. With our introduction of the CUDA programming model in 2006, we opened the parallel processing capabilities of the GPU for general purpose computing. This approach significantly accelerates the performance of the most demanding applications in HPC in fields such as aerospace, bio-science research, mechanical and fluid simulations, and energy exploration. Today, GPUs power the fastest supercomputers across the world. In addition, the massively parallel compute architecture of our GPUs and associated software have proven to be well suited for deep learning, an approach we believe will power the era of AI. As the laws of physics have begun to slow down Moore’s Law, we continue to deliver GPU performance improvements ahead of Moore’s Law, giving the industry a path forward."
+      },
+      {
+        "text": "The world’s leading cloud service providers use our GPUs to enable, accelerate or enrich the services they deliver to billions of end-users, including search, social networking, online shopping, live video, translation, AI assistants, navigation, and cloud computing."
+      },
+      {
+        "text": "A rapidly growing number of enterprises and startups use our GPUs to facilitate deep learning that meets, and in several cases surpasses, human perception, in fields ranging from radiology to precision agriculture. For example, the transportation industry is turning to our GPUs and AI to enable autonomous vehicles, or AVs, with more than 320 companies and organizations working with NVIDIA’s DRIVE platform."
+      },
+      {
+        "text": "While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-"
+      },
+      {
+        "text": "GPU ∙ GeForce for PC gaming and mainstream PCs ∙ GeForce NOW for cloud-based game-streaming service ∙ Quadro for design professionals working in computer-aided design, video editing, special effects, and other creative applications ∙ Tesla for AI utilizing deep learning and accelerated computing, leveraging the parallel computing capabilities of GPUs for general purpose computing ∙ GRID to provide the power of NVIDIA graphics through the cloud and datacenters ∙ DGX for AI scientists, researchers and developers ∙ Cryptocurrency-specific GPUs Tegra Processor ∙ Tegra processors are primarily designed to enable branded platforms - DRIVE and SHIELD ∙ DRIVE automotive supercomputers and software stacks that provide self-driving capabilities ∙ SHIELD devices and services designed to harness the power of mobile-cloud to revolutionize home entertainment, AI and gaming ∙ Jetson TX 2 is a power-efficient AI computing platform for embedded use"
+      },
+      {
+        "text": "Tesla for AI utilizing deep learning and accelerated computing, leveraging the parallel computing capabilities of GPUs for general purpose computing"
+      },
+      {
+        "text": "SHIELD devices and services designed to harness the power of mobile-cloud to revolutionize home entertainment, AI and gaming"
+      },
+      {
+        "text": "Jetson TX 2 is a power-efficient AI computing platform for embedded use"
+      },
+      {
+        "text": "The NVIDIA accelerated computing platform addresses AI, in which systems learn using unstructured data, and HPC, in which it speeds work toward reaching answers for more narrowly defined problems. The platform consists of our energy efficient GPUs, our CUDA programming language, specific libraries such as cuDNN and TensorRT, and innovations such as NVLink, which enables application scalability across multiple GPUs."
+      },
+      {
+        "text": "Deep learning is a new AI computer model where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans. It also greatly increases the performance and power efficiency of high-performance computers and datacenter systems. GPUs excel at parallel workloads, speeding applications by 10-75x compared with CPUs, reducing each of the many data training iterations from weeks to days. In the past year alone, GPUs have sped up training of deep neural networks for AI by as much as 12x."
+      },
+      {
+        "text": "We are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to enabling fraud detection in financial services, to optimizing oil exploration and drilling. These organizations include the world’s leading cloud services companies such as Amazon, Baidu, and Facebook, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in disruptive ways across multiple industries. We have partnered with industry leaders such as IBM, Microsoft, and SAP to bring AI to enterprise users. We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI."
+      },
+      {
+        "text": "To enable deep learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks. They are available in industry standard servers from every major computer maker worldwide, including Cisco, Dell, HP, Inspur, and Lenovo; from every major cloud service provider such as Alicloud, Amazon Web Services, Baidu Cloud, Google Cloud, IBM Cloud, Microsoft Azure, and Oracle Cloud; as well as in our DGX AI supercomputer, a purpose-built system for deep learning and GPU accelerated applications. DGX delivers performance equal to hundreds of conventional servers, comes fully integrated with hardware, deep learning software, development tools, support for existing AI frameworks, and runs popular accelerated applications. We also offer the NVIDIA GPU Cloud, or NGC, a cloud-based service for AI developers that provides comprehensive, easy-to-use, optimized deep learning software stacks. With NGC, AI developers can get started with deep learning development and deploy it with NVIDIA’s cloud partners such as Amazon."
+      },
+      {
+        "text": "NVIDIA’s Automotive market is comprised of infotainment solutions, advanced driver assistance systems, and AV opportunities. Leveraging our technology leadership in AI and building on its long-standing automotive relationships, we are delivering a full solution for the AV market under the DRIVE brand. NVIDIA has demonstrated multiple applications of AI within the car. AI can drive the car itself as a pilot, in either partial or fully autonomous mode. AI can also be a co-pilot, assisting the human driver in creating a safer driving experience."
+      },
+      {
+        "text": "NVIDIA is working with over 320 automakers, tier-one suppliers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-driving vehicles. Our unified AI computing architecture starts with mapping and training deep neural networks using our Tesla GPUs, and then running them within the vehicle on the NVIDIA DRIVE AI car computing platform. This end-to-end approach leverages NVIDIA DriveWorks software and allows cars to receive over-the-air updates to add new features and capabilities throughout the life of a vehicle."
+      },
+      {
+        "text": "DRIVE PX can understand in real-time what's happening around the vehicle, precisely locate itself on an HD map, and plan a safe path forward. This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience. Our DRIVE PX platform scales from a palm-sized, energy-efficient module for AutoCruise automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars. A new single-processor configuration of DRIVE PX enables vehicles to use deep neural networks to process data from multiple cameras and sensors."
+      },
+      {
+        "text": "Extending our technology and platform leadership in AI. Deep learning is fundamental to the evolution of AI. We provide a complete, end-to-end GPU computing platform for deep learning, addressing both training and inferencing. This includes GPUs, our CUDA programming language, algorithms, libraries, and system software. GPUs are uniquely suited to AI, and we will continue to add AI-specific features to our GPU architecture to further extend our leadership position. Our AI technology leadership is reinforced by our large and expanding ecosystem in a virtuous cycle. Our GPU platforms are available from virtually every major server maker and cloud service provider, as well as on our own AI supercomputer. There are over 700,000 CUDA developers worldwide who write programs using CUDA to help deploy our technology in our target markets. We evangelize AI through partnerships with hundreds of universities and more than 2,000 startups through our Inception program. Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to"
+      },
+      {
+        "text": "design, train, and deploy neural network-powered machine learning in applications. It covers widely used open-source frameworks and NVIDIA’s latest GPU-accelerated deep learning platforms."
+      },
+      {
+        "text": "Advancing the leading autonomous vehicle platform. We believe the advent of AV will soon revolutionize the transportation industry. In our view, AI is the key technology enabler of this opportunity, as the algorithms required for autonomous driving - such as perception, localization, and planning - are too complex for legacy hand-coded approaches, and will run on multiple trained neural networks instead. Therefore, we have provided a full functionally safe AI-based hardware and software solution for the AV market under the DRIVE brand, which we are bringing to market through our partnerships with automotive original equipment manufacturers, or OEMs, tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural networks before their in-vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software updates. We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving."
+      },
+      {
+        "text": "To encourage the development of applications optimized for our GPUs, we seek to establish and maintain strong relationships in the software development community. Engineering and marketing personnel engage with key software developers to promote and discuss our platforms, as well as to ascertain individual product requirements and solve technical problems. Our developer program makes our products available to developers prior to launch in order to encourage the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for our platforms. Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our GPU and CUDA platforms. We now have over 700,000 registered developers across our platforms, including accelerated computing, gaming, deep learning, autonomous machines, and others."
+      },
+      {
+        "text": "A significant source of competition comes from companies that provide or intend to provide GPUs, embedded SOCs, and accelerated and AI computing processor products. Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes."
+      },
+      {
+        "text": "Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of VR, HPC, and AI."
+      },
+      {
+        "text": "While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices."
+      },
+      {
+        "text": "Strong growth across our Pascal-based GeForce gaming GPUs was driven by growth associated with GPU refreshes/upgrades, new gamers, new games, eSports, and cryptocurrency mining. Revenue for datacenter, including Tesla, NVIDIA GRID and NVIDIA DGX, was $1.93 billion, up 133% year on year, led by strong sales of our Volta architecture, including V100 GPU accelerators, which began shipping in the first half of fiscal year 2018 and are available through major computer makers and cloud providers, new DGX systems, and design wins in HPC. Professional visualization revenue grew 12% year over year to $934 million, led by ultra-high-end and high-end desktop workstations, as well as unique form factors and emerging opportunities, including AI, deep learning, VR and rendering."
+      },
+      {
+        "text": "Gross margin for fiscal year 2018 was 59.9%, compared with 58.8% a year earlier, reflecting a favorable shift in mix, the growth of our GeForce gaming GPUs, and the growth of our GPU computing platform for cloud, deep learning, AI, and graphics virtualization, partially offset by the conclusion of our patent license agreement with Intel."
+      },
+      {
+        "text": "Operating expenses for fiscal year 2018 were $2.61 billion, up from $2.13 billion in the previous year. This reflects growth in employees and related costs, as well as investments in growth initiatives, including gaming, AI, and autonomous driving."
+      },
+      {
+        "text": "For our datacenter platform, we announced that NVIDIA Tesla V100 GPU accelerators are available through virtually every major computer maker and have been chosen by nearly every major cloud provider to deliver AI and HPC. We added 34 GPU-accelerated systems to the Top 500 supercomputer list, bringing the total number of systems relying on NVIDIA GPUs to 87, announced partnerships to further AI in key vertical industries, and launched the NVIDIA GPU Cloud container registry to support scientists using HPC applications and AI researchers using desktop GPUs."
+      },
+      {
+        "text": "During fiscal year 2018 , for the automotive market, we announced the NVIDIA DRIVE AI self-driving platform, which enables automakers and Tier-1 suppliers to accelerate production of automated and autonomous vehicles, the NVIDIA DRIVE Xavier autonomous machine processor to power the NVIDIA DRIVE software stack, and NVIDIA DRIVE PX Pegasus, an auto-grade AI computer designed to enable driverless robotaxis without steering wheels, pedals or mirrors. We also announced several new partnerships aimed at getting AI-powered cars, trucks and commercial vehicles on the road, including partnerships with Aurora, Autoliv, Baidu, Bosch, Continental, Mercedes-Benz, Uber, Volkswagen, Volvo, Toyota, and ZF."
+      },
+      {
+        "text": "In addition, we introduced NVIDIA Jetson TX2, a high-performance, low-power computer platform for delivering AI at the edge, with deep learning and computer vision capabilities for robots, drones and smart cameras, the NVIDIA Isaac robot simulator for training intelligent machines in simulated real-world conditions before deployment, and the NVIDIA Metropolis platform, used by more than 50 partners to make cities safer and smarter by applying deep learning to surveillance video streams."
+      },
+      {
+        "text": "GPU Business. GPU business revenue increased by 40% in fiscal year 2018 compared to fiscal year 2017 led by growth in gaming, datacenter and professional visualization. Revenue from sales of GeForce GPU products for gaming increased over 20%, reflecting continued strong demand for our Pascal-based GPU products. Datacenter revenue, including Tesla, GRID and DGX, increased 133%, reflecting strong demand from hyperscale and cloud customers for deep learning training and accelerated GPU computing as well as demand for HPC, DGX AI supercomputing and GRID virtualization platforms. Revenue from Quadro GPUs for professional visualization increased by 12% due primarily to higher sales in both high end desktop and mobile workstation products. Revenue from GeForce GPU products for mainstream PC OEMs increased by over 90% due primarily to strong demand for GPU products targeted for cryptocurrency mining."
+      },
+      {
+        "text": "GPU business revenue increased by 39% in fiscal year 2017 compared to fiscal year 2016 . This increase was primarily due to increased revenue from our GeForce GPU gaming and datacenter platforms. Sales of high-end GeForce GPU products for gaming increased over 40%, reflecting a combination of continued strength in PC gaming and strong demand for our recent Pascal-based GPU products. Datacenter revenue, including our Tesla, NVIDIA GRID, and DGX-1 brands, increased by 145%, reflecting strong demand for deep learning training for AI, cloud, accelerated, and virtualized"
+      },
+      {
+        "text": "Our overall gross margin was 59.9% , 58.8% , and 56.1% for fiscal years 2018 , 2017 , and 2016 , respectively. These increases were driven primarily by a favorable shift in mix, the growth of our GeForce gaming GPU revenue, and the growth of our datacenter revenue for cloud, deep learning, AI, and graphics virtualization. The increase in fiscal year 2018 was partially offset by the conclusion of our patent license agreement with Intel in the first quarter of fiscal year 2018."
+      },
+      {
+        "text": "GPU Business. The gross margin of our GPU business increased during fiscal year 2018 when compared to fiscal year 2017 , primarily due to strong sales of our GeForce gaming GPU products and revenue growth in datacenter, including Tesla, GRID and DGX, for cloud, deep learning, AI, and graphics virtualization. The gross margin of our GPU business increased during fiscal year 2017 when compared to fiscal year 2016 primarily due to product mix resulting from increased sales of our gaming, datacenter, and professional visualization GPU products, as well as a continued decrease in sales volumes of lower margin PC OEM products."
+      },
+      {
+        "text": "Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our focus in recent years to the revolutionary field of artificial intelligence."
+      }
+    ]
+  }
+}

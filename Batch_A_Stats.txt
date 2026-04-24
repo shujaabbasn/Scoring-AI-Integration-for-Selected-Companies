@@ -1,6 +1,6 @@
-AI ADOPTION VALIDATION RESULTS
---------------------------------
-Sample Size: 51
-Pearson Correlation (Linear):  0.4838 (p=0.0003)
-Spearman Correlation (Rank):   0.5304 (p=0.0001)
---------------------------------
+AI ADOPTION VALIDATION RESULTS (CIK-YEAR BASIS)
+-----------------------------------------------
+Sample Size (N): 198
+Pearson Correlation:  -0.2357 (p=0.0008)
+Spearman Correlation: -0.1830 (p=0.0099)
+-----------------------------------------------

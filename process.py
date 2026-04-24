@@ -1,0 +1,5 @@
+# Variable name: "(sale) Sales/Turnover (Net)"
+# Employee count: "(emp) Employees"
+# cost of goods sold: "(cogs) Cost of Goods Sold"
+# Operating income after depreciation: "(oiadp) Operating Income After Depreciation"
+# Selling, general and admin expenses: "(xsga) Selling, General and Administrative Expense"

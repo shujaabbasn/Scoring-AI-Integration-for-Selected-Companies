@@ -6,12 +6,19 @@ import pandas as pd
 from sec_edgar_downloader import Downloader
 from bs4 import BeautifulSoup
 import shutil
+from tqdm import tqdm
 
 
 # Config
 INPUT = "Pilot_Truth_Data.csv"
-FOLDER = "10k_filings"
+# INPUT_NEW = "truth_data.csv"
+INPUT_NEW = "compustat_data3.csv"
+CIK_COLUMN_NAME = "(cik) CIK Number"
+FOLDER = "10k_filings_new"
 EMAIL = "28100250@lums.edu.pk"
+REGULAR_FOLDER = "ai_mentions_regular_new2"
+COMPACT_FOLDER = "ai_mentions_compact_new2"
+
 
 KEYWORDS = re.compile(
     r"""
@@ -113,6 +120,110 @@ def remove_hidden_elements(soup):
     for tag in hidden_tags:
         tag.decompose()
 
+def get_init_boundary(text, start, word_count=100):
+    prefix = text[:start]
+    # Find all word matches in the prefix
+    words = list(re.finditer(r'\S+', prefix))
+    
+    if len(words) <= word_count:
+        return 0
+        
+    # Get the start index of the word N positions back from the end
+    target_word_start = words[-word_count].start()
+    search_area = prefix[:target_word_start]
+    
+    # Look back for previous sentence end
+    sentence_end_match = list(re.finditer(r'[.!?](\s+)', search_area))
+    if sentence_end_match:
+        return sentence_end_match[-1].end()
+    return 0
+
+def get_final_boundary(text, end, word_count=100):
+    suffix = text[end:]
+    # Find all word matches in the suffix
+    words = list(re.finditer(r'\S+', suffix))
+    
+    if len(words) <= word_count:
+        return len(text)
+    
+    # Get the end index of the word N positions forward
+    # (word_count - 1 because list is 0-indexed)
+    target_word_end = words[word_count - 1].end()
+    
+    # Now look forward FROM THAT WORD for the end of the sentence
+    remaining_text = suffix[target_word_end:]
+    sentence_end_pattern = re.compile(r'[.!?](\s+|$)', re.MULTILINE)
+    match = sentence_end_pattern.search(remaining_text)
+    
+    if match:
+        # Total index = match end + where we started looking in suffix + original end
+        return end + target_word_end + match.end()
+    
+    return len(text)
+
+def get_block_boundaries(text, matches, word_count=100):
+    if not matches:
+        return 0, 0
+        
+    # FIX: Extract the actual start of the first match and end of the last match
+    first_match_start = matches[0].start()
+    last_match_end = matches[-1].end()
+
+    # FIX: Pass the specific indices to the helpers
+    start_index = get_init_boundary(text, first_match_start, word_count)
+    end_index = get_final_boundary(text, last_match_end, word_count)    
+
+    return start_index, end_index
+
+def test_before_after():
+    # Example KEYWORDS for testing
+    KEYWORDS = re.compile(r"AI", re.IGNORECASE)
+    test_text = "This is a sentence. This is another sentence. This is yet another sentence. AI is mentioned here. This is after the AI mention. And this is the end."
+    
+    matches = list(KEYWORDS.finditer(test_text))
+    # word_count=5 should trigger the 'back/forward' logic
+    start, end = get_block_boundaries(test_text, matches, word_count=2)
+    
+    print("Extracted Text:")
+    print(f"'{test_text[start:end]}'")
+
+def extract_candidate_paragraphs_compact(html):
+    soup = BeautifulSoup(html, "lxml")
+
+    for tag in soup(["script", "style", "noscript"]):
+        tag.decompose()
+
+    remove_hidden_elements(soup)
+
+    candidates = []
+    seen = set()
+
+    blocks = soup.find_all(["p", "div", "li"])
+
+    for block in blocks:
+        text = block.get_text(" ", strip=True)
+
+        text = normalize_text(text)
+
+        if len(text) < 60:
+            continue
+
+        matches = list(KEYWORDS.finditer(text))
+        if not matches:
+            continue
+
+        start_index, end_index = get_block_boundaries(text, matches, word_count=100)    
+
+        relevant_text = text[start_index:end_index]
+        if relevant_text not in seen:
+            seen.add(relevant_text)
+            candidates.append(relevant_text)
+        # if KEYWORDS.search(text):
+        #     if text not in seen:
+        #         seen.add(text)
+        #         candidates.append(text)
+
+    return candidates
 
 def extract_candidate_paragraphs(html):
     soup = BeautifulSoup(html, "lxml")
@@ -133,6 +244,10 @@ def extract_candidate_paragraphs(html):
         text = normalize_text(text)
 
         if len(text) < 60:
+            continue
+
+        matches = list(KEYWORDS.finditer(text))
+        if not matches:
             continue
 
         if KEYWORDS.search(text):
@@ -168,77 +283,111 @@ def extract_filing_year(raw_text):
 def collect_ai_paragraphs(
     cik_list,
     email,
-    download_folder="sec_downloads/sec-edgar-filings",
-    start_year=2017,
-    end_year=2025
+    download_folder="sec_downloads",
+    # start_year=2017,
+    # end_year=2025
+    start_year = 2015,
+    end_year = 2025
 ):
 
     os.makedirs(download_folder, exist_ok=True)
     dl = Downloader("AI_Research_Project", email, download_folder)
 
+    unique_ciks = list(dict.fromkeys(cik_list))  # preserve order, deduplicate
+    n_years = end_year - start_year + 1
+    total_steps = len(unique_ciks) * n_years
+
     results = {}
+    shorter_results = {}
 
-    for cik in cik_list:
-        cik_str = str(cik).zfill(10)
-        print(f"\nProcessing CIK {cik_str}")
+    with tqdm(total=total_steps, desc="Processing filings", unit="filing") as pbar:
+        for cik in cik_list:
+            cik_str = str(cik).zfill(10)
+            # print(f"\nProcessing CIK {cik_str}")
 
-        results[cik_str] = []
+            results[cik_str] = []
+            shorter_results[cik_str] = []
+            try:
+                num_downloaded = dl.get(
+                    "10-K",
+                    cik_str,
+                    after=f"{start_year}-01-01",
+                    before=f"{end_year + 1}-01-01",
+                )
+                # print(f"Downloaded {num_downloaded} filings...")
+                cik_path = os.path.join(download_folder, "sec-edgar-filings", cik_str, "10-K")
+                if num_downloaded == 0 or not os.path.exists(cik_path):
+                    # print(f"No filings for {cik_str} for this period.")
+                    pbar.update(n_years)
+                    continue
 
-        dl.get(
-            "10-K",
-            cik_str,
-            after=f"{start_year}-01-01",
-            before=f"{end_year + 1}-01-01",
-        )
+                for accession_dir in os.listdir(cik_path):
+                    accession_path = os.path.join(cik_path, accession_dir)
+                    if not os.path.isdir(accession_path):
+                        continue
 
-        cik_path = os.path.join(download_folder, cik_str, "10-K")
-        if not os.path.exists(cik_path):
-            continue
+                    full_submission_path = os.path.join(accession_path, "full-submission.txt")
+                    if not os.path.exists(full_submission_path):
+                        continue
 
-        for accession_dir in os.listdir(cik_path):
-            accession_path = os.path.join(cik_path, accession_dir)
-            if not os.path.isdir(accession_path):
-                continue
+                    with open(full_submission_path, "r", encoding="utf-8", errors="ignore") as f:
+                        raw = f.read()
 
-            full_submission_path = os.path.join(accession_path, "full-submission.txt")
-            if not os.path.exists(full_submission_path):
-                continue
+                    filing_year = extract_filing_year(raw)
+                    if filing_year is None:
+                        continue
 
-            with open(full_submission_path, "r", encoding="utf-8", errors="ignore") as f:
-                raw = f.read()
+                    if filing_year < start_year or filing_year > end_year:
+                        continue
 
-            filing_year = extract_filing_year(raw)
-            if filing_year is None:
-                continue
+                    html = extract_main_10k(raw)
+                    if not html:
+                        pbar.update(1)
+                        continue
+                    
+                    paragraphs = extract_candidate_paragraphs(html)
+                    shorter_paragraphs = extract_candidate_paragraphs_compact(html)
 
-            if filing_year < start_year or filing_year > end_year:
-                continue
+                    # Always register the year — even if no matches
+                    if len(paragraphs) == 0:
+                        results[cik_str].append({
+                            "cik": cik_str,
+                            "filing_year": filing_year,
+                            "text": None
+                        })
+                    else:
+                        for para in paragraphs:
+                            results[cik_str].append({
+                                "cik": cik_str,
+                                "filing_year": filing_year,
+                                "text": para
+                            })
 
-            html = extract_main_10k(raw)
-            if not html:
-                continue
+                    # Always register the year — even if no matches
+                    if len(shorter_paragraphs) == 0:
+                        shorter_results[cik_str].append({
+                            "cik": cik_str,
+                            "filing_year": filing_year,
+                            "text": None
+                        })
+                    else:
+                        for para in shorter_paragraphs:
+                            shorter_results[cik_str].append({
+                                "cik": cik_str,
+                                "filing_year": filing_year,
+                                "text": para
+                            })
+                    pbar.set_postfix(cik=cik_str, year=filing_year)
+                    pbar.update(1)
+            except Exception as e:
+                print(f"An unexpected error occurred: {type(e).__name__}")
+                print(f"Description: {e}")
+                pbar.update(n_years)
 
-            paragraphs = extract_candidate_paragraphs(html)
-
-            # Always register the year — even if no matches
-            if len(paragraphs) == 0:
-                results[cik_str].append({
-                    "cik": cik_str,
-                    "filing_year": filing_year,
-                    "text": None
-                })
-            else:
-                for para in paragraphs:
-                    results[cik_str].append({
-                        "cik": cik_str,
-                        "filing_year": filing_year,
-                        "text": para
-                    })
-
-    return results
+    return results, shorter_results
 
 
-def save_results_per_company(results, output_folder="ai_extracted"):
+def save_results_per_company(results, output_folder=REGULAR_FOLDER):
     """
     Writes a transformed JSON per CIK in the same format produced by
     `2b_convert_json.py`.  Each file will look like:
@@ -283,21 +432,21 @@ def download():
     if not os.path.exists(FOLDER): os.makedirs(FOLDER)
     dl = Downloader("LUMS_Research", EMAIL, os.path.abspath(FOLDER))
     
-    df = pd.read_csv(INPUT)
+    df = pd.read_csv(INPUT_NEW)
     print("Starting downloads...")
-
-    data = collect_ai_paragraphs(
-    cik_list=df['cik'],
+    data, short_data = collect_ai_paragraphs(
+    cik_list=df[CIK_COLUMN_NAME].unique(),
     email=EMAIL
     )
 
-    print(json.dumps(data["0000320193"][:2], indent=2))
     save_results_per_company(data)
+    save_results_per_company(short_data, COMPACT_FOLDER)
 
 
 if __name__ == "__main__":
     # existing call for full-data run:
     download()
+    # test_before_after()
 
     # quick‑check block – uncomment when you want to smoke‑test
     # small_ciks = ["0000006281", "0000050863"]   # Apple + Intel, for instance

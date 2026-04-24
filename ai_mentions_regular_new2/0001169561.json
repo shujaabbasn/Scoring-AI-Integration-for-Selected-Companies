@@ -1,0 +1,80 @@
+{
+  "cik": "0001169561",
+  "filings": {
+    "2023": [
+      {
+        "text": "We believe our solutions are a major differentiator versus our competitors’ portfolios. Our solutions’ unique indexing, cataloging, data movement, media management, AI/ML, and policy technologies are the source of the performance, scale, management, cost of ownership benefits and seamless interoperability inherent in all of our data protection solutions. Additional options enable content search, data encryption and auditing features to support data discovery and compliance. Our success and ability to compete depend on our continued development and protection of our solutions. We rely primarily on a combination of trade secret, patent, copyright and trademark laws, as well as contractual provisions, to establish and protect our intellectual property rights."
+      }
+    ],
+    "2025": [
+      {
+        "text": "• Global Real-Time Support. We offer global customer support from physical locations around the world, which allows us to provide 24/7 support. Our customers have access to support staff available by phone for first responses and to manage resolutions, and to an online support database for help with troubleshooting and operational questions. Additionally, we leverage Arlie, our artificial intelligence (\"AI\")-powered assistant within the Commvault Cloud platform, to enhance support with real-time, actionable insights. This advanced AI capability is designed for faster resolutions and an even more responsive support experience. Our cloud-based support system creates a virtual global support center to address customer needs. We have designed our support infrastructure to scale with the increasing globalization of our customers. We have also developed and maintain a knowledge library of storage systems and software products to further enable our support organization to quickly and effectively resolve customer problems."
+      },
+      {
+        "text": "Cybersecurity and AI Partnerships. Commvault has continued to expand integrations with leading cybersecurity and AI partners. These integrations can play a key role in helping joint customers advance cyber resilience – from identifying potential threats or anomalies, to understanding where sensitive data exists, to accelerating clean recoveries. These bi-directional integrations also empower customers to use their preferred security, data protection, and cyber recovery solutions. Security operations teams can leverage these integrations to help better understand risks and threats, defend against them, and recover with confidence."
+      },
+      {
+        "text": "Bad actors regularly attempt to gain unauthorized access to our IT systems, and many such attempts are increasingly sophisticated and difficult to detect. These attempts, which might be related to industrial, corporate or other espionage, criminal hackers or nation-state and nation-state supported actors, include trying to covertly introduce malware or ransomware to our environments, impersonating authorized users, as well as other intrusions from nation-state actors and nation-state supported actors. In particular, cyber attacks, including those from organized criminal threat actors, nation-states and nation-state supported actors, are prevalent and severe and could lead to significant interruptions, delays, or outages in our operations, disruptions in our services, loss of data, loss of income, significant extra expense to restore data or systems, reputational loss and the diversion of funds. Cybercriminals are leveraging artificial intelligence (“AI”) to develop more sophisticated and targeted attacks, making detection and prevention increasingly challenging, resulting in heightened risks of security breaches and incidents. As cyberattacks, including AI-driven threats, become increasingly sophisticated, there is an omnipresent need to enhance security measures to protect our systems and data."
+      },
+      {
+        "text": "We may not be successful in our initiatives that utilize AI, which could adversely affect our business, reputation, or financial results."
+      },
+      {
+        "text": "There are significant risks involved in utilizing AI and no assurance can be provided that such usage will enhance our business or assist our business in being more efficient or profitable. Known risks currently include accuracy, bias, toxicity, intellectual property infringement or misappropriation, data privacy, and cybersecurity and data provenance. In addition, AI may have errors or inadequacies that are not easily detectable. For example, certain AI may utilize historical data in its analytics. To the extent that such historical data is not indicative of the current or future conditions, or models fail to filter biases in the underlying data or collection methods, such AI usage may lead us to make determinations on behalf of our business, recommendations to our clients, or developments to our products and services, in each case, that may have an adverse effect on our business and financial results. If AI models are incorrectly designed or the data used to train them is overbroad, incomplete, inadequate or biased in some way, our use may inadvertently reduce our efficiency or cause unintentional or unexpected outputs that are incorrect, do not match our business goals, do not comply with our policies or interfere with the performance of our products and services, business and reputation."
+      },
+      {
+        "text": "AI is a complex and rapidly evolving regulatory landscape. The use of AI may increase intellectual property, cybersecurity and data protection, operational and technological risks, and our related efforts may result in new or enhanced governmental or regulatory scrutiny, litigation, ethical concerns, or other complications that could adversely affect our business, reputation, or financial results or subject us to legal liability. In particular, technologies underlying AI and their use cases are subject to a variety of laws, including intellectual property, cybersecurity and data protection, consumer protection and equal opportunity laws. If we do not have sufficient rights to use the data on which these models rely, we may incur liability through the violation of such laws, third-party privacy or other rights or contracts to which we are a party. Changes in laws, rules, directives and regulations may adversely affect the ability of our business to develop and use AI."
+      },
+      {
+        "text": "We market our own products as containing AI features. Some of our customers, especially those in highly regulated industries, may be reluctant or unwilling to adopt such AI features which could reduce or delay customer adoption."
+      }
+    ],
+    "2021": [
+      {
+        "text": "At Commvault, we believe in solving hard problems for our customers. To do this, we provide capabilities which enable our customers to accelerate their digital transformation in today's ever evolving workforce using tools that are light touch and utilize artificial intelligence and machine learning to drive automation. Our product portfolio empowers our customers to reduce complexity, reign in data fragmentation, and accelerate their cloud journey. All software functionality shares the same back-end technologies to deliver the benefits of a holistic approach to protecting, managing, and accessing data. Our software addresses many aspects of storage and data management in the enterprise, while providing scalability and control of data and information. We believe our technology provides the broadest set of capabilities in the industry, which allows customers to reduce storage costs and administrative overhead. We also provide our customers with a broad range of professional services."
+      }
+    ],
+    "2024": [
+      {
+        "text": "We believe our solutions are a major differentiator versus our competitors’ portfolios. Our Commvault Cloud platform powered by Metallic AI aims to deliver the highest security, most intelligence, and fastest recovery across on-premises, hybrid and multi-cloud environments. Our solutions’ unique features drive the performance, scale, TCO benefits and interoperability of our offerings. Such features include encryption, indexing and immutable recovery. Additional options enable content search and auditing features to support data discovery and compliance."
+      },
+      {
+        "text": "We may not be successful in our initiatives that utilize AI, which could adversely affect our business, reputation, or financial results."
+      },
+      {
+        "text": "There are significant risks involved in utilizing AI and no assurance can be provided that such usage will enhance our business or assist our business in being more efficient or profitable. Known risks currently include accuracy, bias, toxicity, intellectual property infringement or misappropriation, data privacy, and cybersecurity and data provenance. In addition, AI may have errors or inadequacies that are not easily detectable. For example, certain AI may utilize historical data in its analytics. To the extent that such historical data is not indicative of the current or future conditions, or models fail to filter biases in the underlying data or collection methods, such AI usage may lead us to make determinations on behalf of our business, recommendations to our clients, or developments to our products and services, in each case, that may have an adverse effect on our business and financial results. If AI models are incorrectly designed or the data used to train them is overbroad, incomplete, inadequate or biased in some way, our use may inadvertently reduce our efficiency or cause unintentional or unexpected outputs that are incorrect, do not match our business goals, do not comply with our policies or interfere with the performance of our products and services, business and reputation."
+      },
+      {
+        "text": "AI is a complex and rapidly evolving regulatory landscape. The use of AI may increase intellectual property, cybersecurity and data protection, operational and technological risks, and our related efforts may result in new or enhanced governmental or regulatory scrutiny, litigation, ethical concerns, or other complications that could adversely affect our business, reputation, or financial results or subject us to legal liability. In particular, technologies underlying AI and their use cases are subject to a variety of laws, including intellectual property, cybersecurity and data protection, consumer protection and equal opportunity laws. If we do not have sufficient rights to use the data on which these models rely, we may incur liability through the violation of such laws, third-party privacy or other"
+      },
+      {
+        "text": "rights or contracts to which we are a party. Changes in laws, rules, directives and regulations may adversely affect the ability of our business to develop and use AI."
+      },
+      {
+        "text": "We may also market our own products as containing AI features. Some of our customers, especially those in highly regulated industries, may be reluctant or unwilling to adopt such AI features which could reduce or delay customer adoption."
+      }
+    ],
+    "2014": [],
+    "2007": [],
+    "2015": [],
+    "2012": [],
+    "2018": [],
+    "2019": [],
+    "2022": [
+      {
+        "text": "We believe in solving hard problems for our customers by enabling our customers to accelerate their digital transformation in today's ever-evolving workforce. Our product portfolio includes intuitive tools and powerful machine learning technology that drives automation, reduces complexity, reigns in data fragmentation, and accelerates a customer’s cloud journey. Our product functionality share the same back-end technologies to deliver the benefits of a holistic approach to protecting, managing, and securing data. Our products address many aspects of data management, from data protection and security, to data governance, transformation and insights, while providing scalability. We believe our technology and professional services provide the broadest set of capabilities in the industry, which enables customers to efficiently and cost-effectively scale their data on premise or in the cloud."
+      },
+      {
+        "text": "We believe in solving hard problems for our customers by enabling our customers to accelerate their digital transformation in today's ever-evolving workforce. Our product portfolio includes intuitive tools and powerful machine learning technology that drives automation, reduces complexity, reigns in data fragmentation, and accelerates a customer’s cloud journey. Our product functionality share the same back-end technologies to deliver the benefits of a holistic approach to protecting, managing, and securing data. Our products address many aspects of data management from data protection and security, to data governance, transformation and insights, while providing scalability. We believe our technology and professional services provide the broadest set of capabilities in the industry, which enables customers to efficiently and cost-effectively scale their data on premise or in the cloud."
+      }
+    ],
+    "2017": [],
+    "2016": [],
+    "2020": [],
+    "2008": [],
+    "2011": [],
+    "2013": [],
+    "2009": [],
+    "2010": []
+  }
+}

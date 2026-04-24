@@ -1,0 +1,452 @@
+{
+  "cik": "0000816761",
+  "filings": {
+    "2011": [
+      {
+        "text": "Active Enterprise Intelligence. Teradata extends the use of traditional data warehousing by integrating advanced analytics into enterprise business processes through a solution known as Active Enterprise Intelligence, which reduces the time between obtaining information and acting on it. Specifically, this advanced solution integrates detailed historical information with near real-time data, and then deploys timely, accurate strategic intelligence to knowledge workers in the corporate office as well as operational intelligence to front line users, customers and partners."
+      },
+      {
+        "text": "Through active enterprise intelligence, Teradata is extending the use of traditional enterprise data warehousing (“EDW”) by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur."
+      }
+    ],
+    "2017": [],
+    "2019": [
+      {
+        "text": "Creating more efficient utilization of assets through machine learning of sensor data."
+      }
+    ],
+    "2018": [
+      {
+        "text": "Creating more efficient utilization of assets through machine learning of sensor data."
+      }
+    ],
+    "2022": [
+      {
+        "text": "Research and Development (\"R&D\"). We remain focused on designing and developing data warehouse technologies that anticipate our customers' evolving needs and support our customers in solving their most complex business challenges. Our teams are focused on extending our Teradata Vantage data platform to have consistent and differentiated capabilities for our customers’ multi-cloud and hybrid ecosystems. This includes simplifying the journey to cloud, as well as enabling a transformative cloud experience. With a focus on opening up the platform, we are building out deep integration with cloud data and analytic ecosystems, including advanced analytics and artificial intelligence tools. Furthermore, with a strong focus on partnerships, our R&D team is extending our platform to enable deeper partner integration with a broader range of solution and services providers."
+      }
+    ],
+    "2013": [
+      {
+        "text": "Active Intelligence. Teradata extends the use of traditional data warehousing by integrating advanced analytics into enterprise business processes through a solution known as Active Intelligence, which reduces the time between obtaining information and acting on it. Specifically, active intelligence integrates detailed historical information with near real-time data, and then deploys timely, accurate strategic intelligence to knowledge workers in the corporate office as well as operational intelligence to front line users, customers and partners."
+      },
+      {
+        "text": "Through active enterprise intelligence, Teradata is extending the use of traditional data warehousing by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur."
+      },
+      {
+        "text": "In 2011, Teradata completed its acquisitions of Aprimo, Inc. (“Aprimo”), a global provider of integrated marketing software solutions, as well as Aster Data Systems, Inc. (“Aster Data”), a market leader in advanced analytics and the management of diverse, multi-structured data. Both Aprimo and Aster Data have been integrated into Teradata’s operations. With Aprimo, Teradata has expanded its offering of business analytics with integrated marketing solutions that enable customers to improve marketing performance with data-driven insights. Through the acquisition of Aster Data, Teradata has expanded its technologies that enable businesses to perform better analytics on large sets of multi-structured data, also known as big data analytics. In 2012, Teradata"
+      },
+      {
+        "text": "In April 2011, Teradata completed its acquisition of all remaining equity of Aster Data. Prior to the acquisition Teradata held an 11.2% equity interest in Aster Data. Aster Data is a market leader in advanced analytics and the management of diverse, multi-structured data. The combination of Teradata and Aster Data technologies enables businesses to perform better analytics on large sets of multi-structured data, also known as “big data analytics.”"
+      }
+    ],
+    "2025": [
+      {
+        "text": "• Our ability to timely and effectively execute our strategy, including our initiatives to provide and enhance our offerings for on-premises, hybrid, and cloud environments coupled with market acceptance of our cloud platform and enablement of artificial intelligence (\"AI\") capabilities;"
+      },
+      {
+        "text": "• The rapidly changing and intensely competitive nature of the information technology (\"IT\") industry and the data analytic platform business, including the ongoing consolidation activity, new and emerging technologies and competitors, including for enabling AI and machine learning (\"ML\"), and pressure on achieving continued price/performance gains for data analytic product offerings and solutions;"
+      },
+      {
+        "text": "Overview . At Teradata Corporation (\"we,\" \"us,\" \"Teradata,\" or the \"Company\"), we believe that people thrive when empowered with trusted information. We are focused on helping organizations improve business performance, enrich customer experiences, and integrate data across the enterprise. As such, we strive to innovate and deliver trusted solutions for their toughest data and analytics challenges. That is why we built our open and connected hybrid cloud analytics and data platform for AI. With our hybrid cloud platform, named Teradata Vantage, underpinned by our extensive patented workload management optimization technology, we are well positioned to help enterprises deliver business breakthroughs and solve business problems with our capabilities to provide harmonized data, trusted AI, and faster innovation, at scale. As companies embrace AI, they need data at scale. Data at scale is the foundation of agentic and generative AI applications, and data at scale is what Teradata provides."
+      },
+      {
+        "text": "• Trusted AI: We believe that our platform provides our customers with powerful, open, and connected analytics – from ML and traditional analytics to enabling AI that is designed to provide actionable, differentiated insights and enhance enterprise value."
+      },
+      {
+        "text": "• Faster Innovation: Our platform is designed to fuel our customer’s growth opportunities with AI/ML innovation that’s cost-effectively operationalized at scale."
+      },
+      {
+        "text": "Teradata Vantage is our open and connected platform that is designed to allow organizations to leverage all their data across an enterprise, in a hybrid environment. Whether in public or private clouds, in multi-cloud, or on-premises, and at scale, Teradata Vantage comprises deployment options that are designed to address the full span of data analytics and AI needs while providing optimized total cost of ownership and financial governance:"
+      },
+      {
+        "text": "• ClearScape Analytics™: ClearScape Analytics encompasses the end-to-end analytics capabilities integrated into our platform and is designed to be a secure, highly concurrent, and resilient analytics offering. ClearScape Analytics provides robust in-database engine analytics functionality, open and connected integrations, and operationalization at scale for more effective data preparation, advanced analytics, and AI/ML performance."
+      },
+      {
+        "text": "Throughout 2024, we delivered a broad set of innovations that are intended to advance our differentiated position in enabling trusted AI, including:"
+      },
+      {
+        "text": "• Open Table Formats (\"OTF\"): We announced our open and connected approach to supporting OTFs Apache Iceberg and Linux Foundation Delta Lake. Our open and connected approach is designed to allow enterprises to employ a modern data strategy with agility and flexibility to execute AI at scale, while taking advantage of our differentiated analytics."
+      },
+      {
+        "text": "• Teradata VantageCloud Lake: Our cloud-native platform became available on Google Cloud. This integration with Google Cloud, including Google Vertex and Gemini, is designed to offer customers a modern data platform that excels in multiple types of AI, from scaling predictive AI initiatives to powering new generative AI use cases. With this advancement, we added Google Cloud availability in addition to Amazon Web Services (\"AWS\") and Microsoft Azure."
+      },
+      {
+        "text": "• Bring-Your-Own Large Language Model (\"BYO-LLM\"): We have included BYO-LLM capabilities in our platform and ClearScape Analytics. With BYO-LLM our customers can take advantage of small and mid-size open LLMs by bringing the model to the data and minimizing expensive data movement, which helps to maximize the security, privacy, and trust of the data."
+      },
+      {
+        "text": "• ClearScape Analytics: We extended our analytics capabilities through API integration with Google Cloud’s AI development platform providing the capability to train and predict models against data. Together, the solutions provide the ability for customers to execute complex analytics and AI/ML on massive data sets and incorporate preferred data science tools. In addition, we further enhanced the capabilities of ClearScape Analytics by adding new features and functionality designed to boost data science productivity and streamline complex processes through various self-service and automated features. These new features and functionality include:"
+      },
+      {
+        "text": "◦ KNIME integration with Teradata VantageCloud, designed to accelerate AI initiatives and expand usage of ClearScape Analytics to non-technical individuals."
+      },
+      {
+        "text": "• Teradata AI Unlimited: We announced that AI Unlimited, our on-demand compute engine is natively integrated with Microsoft Fabric. AI Unlimited in Microsoft Fabric leverages OTF in OneLake to create shortcuts to data across cloud object stores, enabling customers to take advantage of more than 150 ClearScape Analytics functions without the time or expense of moving data for each workload experience. It is available on AWS and Azure."
+      },
+      {
+        "text": "◦ With Nvidia, we are integrating Nvidia NeMo and Nvidia NIM microservices into our platform to accelerate AI workloads and support the development of foundation and customized LLMs, agentic workflows, and Retrieval-Augmented Generation (\"RAG\") applications."
+      },
+      {
+        "text": "◦ With AWS, we announced delivery of \"rapid-start\" generative AI use cases when leveraging our platform on AWS, integrated with Amazon Bedrock. Also, we announced that our platform will offer Nvidia’s accelerated computing infrastructure, starting with the BYO-LLM integration referenced above."
+      },
+      {
+        "text": "◦ With Anaconda, we announced integration of Anaconda’s secure repository of Python and R packages with ClearScape Analytics designed to accelerate the use of data science and generative AI use cases and enable users to swiftly apply secure open-source packages, scale efficiently, and access harmonized data and trusted AI."
+      },
+      {
+        "text": "◦ With DataRobot, we announced a new integration between ClearScape Analytics and the DataRobot AI Platform aimed at helping enterprises maximize their AI potential by providing greater optionality and flexibility for building and scaling safe and effective AI models. This new functionality is available through ClearScape Analytics’ Bring Your Own Model (\"BYOM\") capability."
+      },
+      {
+        "text": "◦ With third-party productivity tools, Airbyte Cloud, Apache Airflow, and dbt, we introduced integrations that support the modern data stack, so that developers can innovate faster by speeding the deployment and operationalization of AI/ML at enterprise scale."
+      },
+      {
+        "text": "These announcements highlight our commitment to a fully open and connected approach that allows enterprises to employ modern data strategies to enable and execute trusted AI at scale."
+      },
+      {
+        "text": "Our target market focuses on organizations that are large-scale users of data. As data volumes grow exponentially along with increasing sources of data, we are seeing organizations increasingly adopt hybrid, multi-cloud, and on-premises data analytics and AI/ML technologies. We believe it is essential for enterprises to be able to integrate ecosystems across multi-cloud and on-premises environments, simplify access to trusted data wherever it resides, and accommodate analytics at massive scale and speed to derive significant business value. Teradata addresses the full spectrum of analytics needs and varying cloud adoption strategies—from cloud-only to multi-cloud to hybrid and on-premises."
+      },
+      {
+        "text": "As companies around the world are exploring and implementing AI applications, including agentic and generative AI, w e believe that we can help enterprises accelerate AI value, including by:"
+      },
+      {
+        "text": "• Managing uncontrolled data growth: AI requires extensive volumes of high-quality data. We deliver AI capabilities for our customers by providing a platform that is designed to integrate and harmonize data across the organization and analytics capabilities that excel at scale."
+      },
+      {
+        "text": "• Building a flexible, open, and connected ecosystem: We design our architecture to provide a flexible, open, and connected ecosystem to allow companies freedom to use their preferred tools and technologies with public or custom LLMs to produce AI."
+      },
+      {
+        "text": "differentiated packaged use case solutions that can accelerate growth. Business use cases leverage the latest in Teradata AI/ML capabilities and can include, among other things:"
+      },
+      {
+        "text": "Our experienced consultants offer a broad range of services, including helping organizations establish a data analytics and AI/ML vision, enabling a modern, hybrid ecosystem architecture, and identifying and operationalizing opportunities. Our support and maintenance services are designed to provide an optimal experience with Teradata and our managed services offerings are designed to provide an enhanced experience to our customers by helping their analytic environments operate efficiently. We also work closely with top global and regional systems integrators to accelerate innovation, enable digital transformation and maximize customer value from their Teradata technologies."
+      },
+      {
+        "text": "Teradata offers subscription offerings that are flexibly priced, ranging from capacity-based to consumption-based pricing. These flexible pricing options are designed to enable our customers to reduce complexity, risk, and cost and expand their data analytics and AI/ML capabilities to fit their data and budget needs."
+      },
+      {
+        "text": "Industry and Market Opportunity. As companies face mounting data demands, along with the need to extract value from this data, we believe that our opportunity to grow in the multi-billion dollar data management and analytics market will continue. Industry analysts forecast that the data management and analytics market will grow at a double-digit rate year-over-year for the next few years, and it is expected that the market opportunity will continue to expand with the anticipated rapid and global adoption and enablement of AI/ML. We believe that, in addition to companies facing significant ongoing increases in data volumes and proliferation of data sources, there will also be an increasing expectation that this data be trusted, secured, and democratized. Furthermore, the agility provided by cloud-based technologies can bring significant benefits, yet also creates complexity, particularly with the increased need that data and analytics ecosystems span multiple environments. These factors all contribute to the increased complexity, cost, and risk associated with managing data analytics and AI/ML environments, as well as the rapidly emerging desire of customers to create and deliver value from agentic and generative AI. This is particularly true for our target market of global enterprise companies, and we believe that these companies require well-integrated solutions that can accommodate significant agility, scale, and speed in an open and connected ecosystem. We are focused on supporting our customers, whether they are cloud-only, multi-cloud, on-premises, or a hybrid combination. We are helping new and existing customers migrate to the cloud, expand workloads in the cloud, connect their hybrid environments, and capture the possibilities provided by enabling AI. We are also focused on growing the adoption of our hybrid platform, enabling AI on-premises by brining additional data and AI/ML capabilities to our on-premises offering, increasing software utilization, expanding partnerships with leading companies, and demonstrating our extensive AI capabilities."
+      },
+      {
+        "text": "Our Strategy. We have a sharp strategic focus on being the hybrid cloud analytics and data platform for trusted AI at scale. We deliver on this strategy through leveraging our talented teams who are committed to our culture and executing the following strategic imperatives:"
+      },
+      {
+        "text": "• enabling faster innovation, better customer experiences, and improved productivity via the Teradata platform and ClearScape Analytics capabilities to enable AI/ML;"
+      },
+      {
+        "text": "• enhancing our ClearScape Analytics roadmap with incremental AI capabilities;"
+      },
+      {
+        "text": "• enabling AI on-premises by bringing additional data and AI/ML capabilities to our on-premises offerings;"
+      },
+      {
+        "text": "AI requires significant high-quality data to create value; as such, integrating and harmonizing data across the organization is crucial. Our hybrid cloud platform is designed to be scalable, secure, highly concurrent, and resilient to help companies solve complex data challenges at scale. We provide a data management solution that enables enterprises to support their data analytics and AI/ML ecosystems, enable consistent data across business units, and grow at scale. Furthermore, we provide enterprise customers with the flexibility to address their data analytics and AI/ML needs, empowering operational, ad-hoc analytics, and mixed workloads, whether in the cloud, on-premises, or in a hybrid combination."
+      },
+      {
+        "text": "As customers increasingly grow their data analytics ecosystems, we support customers with a data fabric in QueryGrid that connects all environments, as well as data and workload migration tools and services. We also believe that we offer a competitive and compelling total cost of ownership by building out best-in-class capabilities that are designed to provide an easy experience for ingestion, exploration, development, consumption, and operationalization of data analytics and AI/ML."
+      },
+      {
+        "text": "Our strategy is further supported by our commitment to be a responsible corporate citizen. We believe it is our responsibility to make a positive impact on and support important issues, such as addressing the responsible use of AI, environmental sustainability, promoting belonging and inclusion, supporting communities where we live and work, protecting data privacy, and acting ethically in everything we do."
+      },
+      {
+        "text": "Customers . Teradata concentrates our marketing and go-to-market efforts on companies that are seeking to improve business performance and view data analytics and AI/ML as strategic to achieving that objective. We focus on the key buying centers of business leaders, analytics buyers and users, as well as technology buyers and users. Our platform differentiates Teradata in industries with high-data requirements, including Financial Services, Government, Healthcare and Life Sciences, Public Sector, Manufacturing, Retail, Telecommunications, and Travel/Transportation. We believe that these industries provide a good fit for our analytic solutions and services as these industries typically have the greatest analytic potential with large and growing data volumes, complex data management requirements, as well as large and varied types of users. We currently do not have any customer that represents 10% or more of our total revenue."
+      },
+      {
+        "text": "• grow awareness of Teradata as a leading hybrid cloud analytics and data platform for trusted AI , highlighting our technology leadership and innovation, hybrid cloud differentiation, analytics and AI expertise;"
+      },
+      {
+        "text": "• create demand for, and adoption and expanded use of, our technologies, including Teradata VantageCloud, ClearScape Analytics, and Teradata AI Unlimited, as well as related services."
+      },
+      {
+        "text": "Our brand messaging is intended to highlight Teradata’s role as a leader in data analytics, AI, and hybrid cloud technology, as well as our strength as a leading open and connected hybrid cloud analytics and data platform for trusted AI. To support our growth objectives, we employ a broad range of modern marketing strategies, including programs designed to inform, educate, and generate demand with customers and prospects. These strategies include our global website, digital marketing, paid media, demos and trials of our software, webinars, events, public relations, social media, a customer advocacy program, and targeted demand generation."
+      },
+      {
+        "text": "• Alliance Partners: We have a focus on working collaboratively with independent software vendors in several areas, including AI/ML and LLMs, tools, data and application integration solutions, data mining, analytics, business intelligence, and specific analytic and industry solutions. Our goal is to provide choices to our customers with partner offerings that are optimized and certified to work with the Teradata Vantage platform to deliver end-to-end analytic and data solutions and to provide comprehensive capabilities that support the customer’s business goals and work within their analytic ecosystem."
+      },
+      {
+        "text": "Competition. We compete in a large and growing data management and analytics market that is attractive to both current and new competitors. There is a large number of vendors in the analytics and data market and the market landscape of vendors is rapidly increasing with the introduction and increasing traction of cloud and AI. Participants include AWS, Databricks, Google Cloud, Microsoft Azure, Snowflake, and more; the competitive market also comprises traditional legacy competitors. We believe our focus on AI, hybrid and multi-cloud ecosystem simplification, providing solutions for the most scalable and complex workloads, and providing products designed to achieve desired business outcomes of our customers, enables us to successfully compete within our target market. We believe that our technology innovations are highly differentiated, deliver scale and integration, and are positioned to provide business value to our customers. Furthermore, we provide our customers with the opportunity to de-risk their buying decisions with our hybrid capabilities and helping them deploy across the top public clouds, private cloud and on-premises, coupled with flexibility in purchasing and portable licensing. For more information on competition, see Item 1A. "
+      },
+      {
+        "text": "We believe that the principal competitive factors for our products and services include: data analytics and AI/ML experience; business outcome delivery; hybrid multi-cloud offerings and experience; total cost of ownership; customer references; technology leadership; product quality; performance, scalability, availability, integrity, security, and manageability; partner relationships; support and consulting services capabilities; management of technologies in a complex analytical ecosystem; delivery of a platform and tools that are designed to enable AI/ML for our customers; and industry knowledge."
+      },
+      {
+        "text": "Research and Development (\"R&D\"). We remain focused on designing and developing our hybrid cloud analytics and data platform that anticipates our customers' evolving needs and supports solving their complex business challenges. Our teams are extending Teradata technologies and innovations for the Teradata platform, including ClearScape Analytics and Teradata AI Unlimited to have consistent and differentiated capabilities that meet the demands of todays’ hybrid ecosystems. With extensive in-database functionality, seamless and expedited interconnectivity, and robust features for easy operationalization, ClearScape Analytics is designed to enable companies to scale AI/ML quicker and more cost effectively."
+      },
+      {
+        "text": "With a focus on creating an open and connected platform, we continue to build a deep integration with cloud data and analytic ecosystems, including advanced analytics and AI/ML tools. Furthermore, with our strong partnerships, our R&D team is extending our platform to enable deeper integration with a broader range of solution and service providers."
+      },
+      {
+        "text": "Richard Petley is the Company’s Chief Revenue Officer and has served in this role since April 2024. Previously, Mr. Petley served as Teradata’s Executive Vice President, Global Sales, from April 2022, when he joined the Company, until April 2024. He served as General Manager, Western Europe, for Oracle Cloud, at Oracle Corporation, a global software and services company, from 2021 until April 2022. From 2018 until 2021, he was the Managing Director, Oracle UK. Prior to Oracle, Mr. Petley held sales leadership positions at IBM Corporation, a global technology company, with consistent success in growth areas of enterprise software, SaaS and AI, most recently serving as Vice President, IBM Cognitive and Industry Solutions, IBM UK and Ireland from 2017 until 2018."
+      },
+      {
+        "text": "Our failure to successfully execute our strategy and achieve the anticipated benefits of our business transformation, which includes successfully developing, launching, and scaling cloud- and on-premises-based products and product enhancements and/or enabling our data platform to operate effectively in various environments, including cloud, hybrid, and on-premises, or those of our cloud service provider partners, and/or for various uses, including artificial intelligence (\"AI\") and machine learning (\"ML\"), could have a material adverse effect on our business, brand and reputation, competitive position, financial condition, results of operations, and cash flows."
+      },
+      {
+        "text": "The successful implementation of our strategy to be the hybrid cloud platform for trusted AI at scale, coupled with the continued execution of our business transformation can present organizational and infrastructure challenges. We may not be able to implement, execute, and realize some or all of the anticipated benefits from our strategy or our business transformation plan on a timely basis. Even if the anticipated benefits and savings are substantially realized, there may be unforeseen consequences, internal control issues, or business impacts."
+      },
+      {
+        "text": "A core component of our business strategy is to expand and enhance our product offerings, particularly for analytic solutions in cloud and hybrid environments, to include newer market-relevant features, functionality, and cloud-native options, including AI/ML, and to keep pace with price-to-performance gains. In this regard, please see Item 1. Business, for a description of our product offerings and innovations. We expect that we will continue to enhance our cloud, hybrid, on-premises, and AI/ML offerings in the future. Shortened product life cycles due to customer demands and competitive pressures impact the pace at which we must develop, introduce, and implement new technology as part of our product offerings. This requires high-level anticipation of customer needs and technology trends, as well as innovation by both our software developers and the suppliers of the third-party software components included in our solutions. Bringing new offerings to the market entails a costly and, at times, lengthy process, that may increase our risk of liability and cause us to incur significant technical, legal, or other costs. Furthermore, as we migrate our customers from on-premises environments to the cloud, upgrade customers’ VantageCloud environments, and expand our customers’ workloads in cloud, hybrid, and on-premises deployments, we may incur unexpected costs or delays. New cloud offerings, migrations, expansions, upgrades, and deployment models that we rollout may not be successful, and we may not be able to develop the necessary business models, infrastructure, and systems to support and scale the business as our business evolves. This includes acquiring, retaining and developing the right people to execute our business strategy in a competitive job market. In addition, market acceptance of new product and service offerings will be dependent in part on our ability to include functionality and usability that address customer requirements, and to optimally price our offerings and services to meet customer demand and cover our costs. Our go-to-market strategies, including for AI/ML, cloud, and hybrid also must adjust to customers’ changing buying preferences, and there can be no assurance that our go-to-market approach will adequately and completely address such preferences."
+      },
+      {
+        "text": "• customers’ budgeting and approval process, with increasing involvement of the customer C-suite in transactions given the enterprise-wide strategic value our platform provides, including for AI/ML;"
+      },
+      {
+        "text": "In 2023, Teradata introduced a new brand identity, including our messaging around trusted data and trusted AI. With this brand we strive to be modern, innovative, and reflective of our vision for the future. Our updated brand is designed to highlight Teradata’s role as a leader in AI and hybrid cloud data and analytics. We believe that recognition and the reputation of our brand is key to our success, including our ability to retain existing customers as well as attract new customers and partners. While we leverage our decades of experience in data analytics and database management services, we believe we have evolved to provide the modern offerings customers need. These include the cloud-native architecture of Teradata VantageCloud Lake, the end-to-end pipeline of AI/ML capabilities in ClearScape Analytics, our on-demand AI/ML engine in the cloud that delivers a completely self-service experience with Teradata AI Unlimited, and our commitment to providing a platform compatible with OTFs to provide an open and connected ecosystem offering to our customers. The failure for the market to recognize our brand attributes or for there to be misperceptions in the market regarding our cloud, hybrid, AI, or other capabilities could negatively impact our ability to upgrade existing on-premises customers to our hybrid cloud-based solutions, drive expansion/consumption growth, and/or acquire new customers for our on-premises and hybrid cloud businesses. In addition, damage to the reputation of our brand could result in, among other things, customer cancellations or non-renewals, lower employee retention and productivity, vendor relationship issues, and investor and other stakeholder scrutiny, any of which could materially affect our revenue and profitability."
+      },
+      {
+        "text": "Our cloud and service offerings are designed to offer AI/ML capabilities, which exposes us to an emerging and uncertain regulatory environment and rapidly changing technology where any inability to comply with any such regulations may result in reputational harm, liability and disruption to our business operations."
+      },
+      {
+        "text": "The AI/ML regulatory environment is rapidly evolving, and it is difficult to predict the impact the evolving regulatory landscape may have on our business, results of operations and financial condition. Teradata’s platforms and ClearScape Analytics are designed to deliver harmonized data, AI/ML, and faster innovation to facilitate better decision-making. AI/ML technologies are rapidly changing, and with the evolving regulatory environment, we may be subject to increased regulatory requirements, as well as other risks such as data privacy concerns, intellectual property disputes, and exposure to litigation."
+      },
+      {
+        "text": "product introductions, and frequent price and cost reductions. In general, as a participant in the data analytics and AI solutions market, we face:"
+      },
+      {
+        "text": "• New and emerging analytic technologies, including for AI/ML workloads, competitors, and business models;"
+      },
+      {
+        "text": "Our future success depends on our ability to attract, retain, develop, and motivate the services of senior management and key personnel in all areas of our Company, including engineering and development, marketing and sales professionals, and consultants. Competition for highly skilled personnel and acquired talent in the current environment, specifically the IT industry is intense. We have experienced, and may continue to experience, voluntary workforce attrition, including the loss of senior management and key personnel, in part due to the highly competitive job market in our industry. Furthermore, we are required to attract and retain talent with expertise in cloud-based technologies and AI/ML capabilities, particularly with respect to our engineering, development and services teams. No assurance can be made that key personnel will remain with us, and it may be difficult and costly to replace such employees and/or obtain qualified talent who are not employees. We implemented a remote working policy to expand our talent pool for key personnel and we cannot predict the longer-term workforce implications. Our failure to execute on our key culture initiatives, hire, retain or replace our key personnel could have a material adverse impact on our business operations."
+      },
+      {
+        "text": "In addition, we are subject to diverse and complex laws and regulations, including those relating to technology, including AI/ML, corporate governance, ESG reporting, environmental protection, data privacy, public disclosure, and reporting, which are rapidly changing and subject to possible changes in the future. From time to time, we may conduct internal investigations to ensure compliance with such laws and regulations, the costs or results of which could impact our financial results. In addition, we may be subject to unexpected costs in connection with new public disclosure or other accounting or regulatory requirements that are issued from time to time. Laws and regulations impacting our customers, such as those relating to privacy, data protection and digital marketing, could also impact our future business. "
+      },
+      {
+        "text": "As a technology company, our intellectual property portfolio is crucial to our continuing ability to be a leading hybrid cloud data and analytics platform provider for trusted AI. We strive to enhance and, as much as is legally and reasonably possible, protect our proprietary intellectual property rights through patent, copyright, trademark and trade secret laws, as well as through technological safeguards and the actions of our people. These efforts include protection of the offerings and application, diagnostic and other software we develop."
+      },
+      {
+        "text": "enrich customer experiences, and integrate data across the enterprise. As such, we strive to innovate and deliver trusted solutions for their toughest data and analytics challenges. That is why we built our open and connected hybrid cloud analytics and data platform for AI. With our Teradata Vantage platform, underpinned by our extensive patented workload management optimization technology, we are well positioned to help enterprises deliver business breakthroughs and solve business problems with our capabilities to provide harmonized data, trusted AI, and faster innovation, at scale. As companies embrace AI, they need data at scale. Data at scale is the foundation of generative AI applications, and data at scale is what Teradata provides. As a result, we believe that we empower our customers to make better, more confident decisions, engage in faster innovation, and drive positive impact within the enterprise."
+      },
+      {
+        "text": "We expect a decline in gross profit primarily due to negative foreign currency exchange rates and cloud mix, partially offset by cloud rate improvements. We also expect to continue our disciplined approach to managing our financial plan, investing in extending our technology strengths and promoting Teradata as a leader in data analytics, trusted AI, and hybrid cloud technology, while prudently managing costs."
+      },
+      {
+        "text": "We intend to continue investing in R&D areas that we anticipate will generate growth, such as technologies that support AI/ML and OTF, including for on-premises environments."
+      },
+      {
+        "text": "Description of the Business. Teradata Corporation (\"we,\" \"us,\" \"Teradata,\" or the \"Company\") is focused on helping organizations improve business performance, enrich customer experiences, and integrate data across the enterprise. As such, we strive to innovate and deliver trusted solutions for complex data and analytics challenges. That's why we built our comprehensive open and connected cloud analytics and data platform for artificial intelligence (\"AI\"). Our Teradata Vantage platform is designed to help enterprises solve business problems and deliver business breakthroughs with its capabilities to provide harmonized data, trusted AI, and faster innovation."
+      }
+    ],
+    "2020": [
+      {
+        "text": "Teradata has also made it easier for customers to work with the Company and purchase Teradata's solutions via subscription-based transactions. Our solutions are comprised of software, hardware, and related business consulting and support services. We work with our customers to enable them to optimize the value of their data and analytics to get answers to their toughest business challenges and drive business outcomes, which can include, among other things: • Improving customer experience and profitability, • Improving operational efficiency, • Driving financial transformation with accurate and timely data, • Creating a single integrated view of customers across digital and physical channels, and • Creating more efficient utilization of assets through machine learning of sensor data. Our business consulting services include a broad range of offerings, including consulting to help organizations establish an analytic vision, identify and operationalize analytical opportunities, enable an analytical ecosystem architecture, and ensure their analytical infrastructure delivers value. We also offer support and maintenance services for our offerings. Teradata operates from numerous locations within the United States with the primary locations being San Diego, California, and Atlanta, Georgia. In addition, we have sales, services, research and development, and administrative offices located in 41 countries. For the calendar year ended December 31, 2019 , we had total revenues of $ 1,899 million, of which approximately 56% was derived from the Americas region (North America and Latin America) and 44% from the international regions (Europe, Middle East, Africa, Asia Pacific and Japan). "
+      },
+      {
+        "text": "Creating more efficient utilization of assets through machine learning of sensor data."
+      }
+    ],
+    "2024": [
+      {
+        "text": "• Our ability to timely and effectively execute our strategy, including our initiatives to provide and enhance our offerings for on-premises and cloud environments and market acceptance of our cloud platform and artificial intelligence (\"AI\") capabilities;"
+      },
+      {
+        "text": "• The rapidly changing and intensely competitive nature of the information technology (\"IT\") industry and the analytic data platform business, including the ongoing consolidation activity, new and emerging technologies and competitors, including for AI and machine learning (\"ML\"), and pressure on achieving continued price/performance gains for analytic data product offerings and solutions;"
+      },
+      {
+        "text": "Overview . At Teradata Corporation (\"we,\" \"us,\" \"Teradata,\" or the \"Company\"), we believe that people thrive when empowered with trusted information. We are focused on helping organizations improve business performance, enrich customer experiences, and integrate data across the enterprise. As such, we strive to innovate and deliver trusted solutions for their toughest data and analytics challenges. That is why we built our open and connected cloud analytics and data platform for artificial intelligence (\"AI\"). With our Teradata Vantage platform, underpinned by our extensive patented workload management optimization, we are well positioned to help enterprises solve business problems and deliver business breakthroughs with its capabilities to provide harmonized data, trusted AI, and faster innovation."
+      },
+      {
+        "text": "• Trusted AI: We believe that our platform provides our customers with powerful, open, and connected analytics that perform with speed and deliver better insights."
+      },
+      {
+        "text": "• Faster innovation: Our Teradata Vantage platform is designed to fuel our customer’s growth opportunities with AI/ML innovation that's cost-effectively operationalized at scale."
+      },
+      {
+        "text": "• ClearScape Analytics™: ClearScape Analytics provides the analytics capabilities of our Vantage platform and is designed to be a secure, highly concurrent, and resilient analytics offering that provides robust in-database analytics functionality across advanced calculations and data preparation to enable end-to-end AI and machine learning (\"ML\") capabilities. We believe that our ClearScape Analytics capabilities provide the analytics enterprises need to improve business performance and drive profitable growth. ClearScape Analytics is available across all of our Vantage deployment options."
+      },
+      {
+        "text": "• Query Grid: Query Grid is our \"data fabric\" is a data integration and management layer included with our Teradata Vantage offering. QueryGrid serves as the connective tissue in multi-cloud and between cloud, and on-premises environments. This technology innovation is designed to reduce data silos, as it brings data together and enables consistent data access across the ecosystem, so that users can query data regardless of where it lies. With our data fabric, we enable analytics and data integration across public clouds for a multi-cloud experience that large enterprises are investing in to leverage diverse capabilities across multiple ecosystems and mitigate risk. As AI is deployed across the enterprise, our data fabric is designed to provide our customers with the analytic capabilities to deliver trusted data, that is secure and well governed, while controlling costs."
+      },
+      {
+        "text": "During 2023, we delivered several innovations and executed transactions that we believe position Teradata to lead in trusted AI, including :"
+      },
+      {
+        "text": "• Stemma Technologies Acquisition: With a focus on AI-enhanced data search and exploration, we expect this acquisition to broaden Teradata’s capacity to provide analytics value from discovery through delivery. Stemma’s automated data catalog capabilities is expected to help Teradata deliver an enhanced user experience and accelerate growth in AI/ML analytics, including through AI Unlimited."
+      },
+      {
+        "text": "• Teradata ask.ai: Teradata ask.ai is our generative AI capability for VantageCloud Lake. This natural language interface is designed to allow users to ask questions of their company’s data and receive instant responses from VantageCloud Lake."
+      },
+      {
+        "text": "• ModelOps: Teradata included new ModelOps capabilities in ClearScape Analytics, which is intended to provide no-code capabilities to enable customers to quickly scale AI and advanced analytics with enterprise governance."
+      },
+      {
+        "text": "• Teradata AI Unlimited: We launched Teradata AI Unlimited, our AI and ML experience in the cloud. AI Unlimited can enable customers to drive faster, easier, and more cost-effective AI innovation. It is designed to provide access to vast amounts of data, flexibility, and the ability to cost-effectively and securely explore, experiment and operationalize new AI use cases, at scale. Further, we announced that Teradata AI Unlimited will be natively integrated with Microsoft's AI-powered platform, Microsoft Fabric."
+      },
+      {
+        "text": "• Integration with both Microsoft Azure Machine Learning (\"Azure ML\") and Google Vertex AI: Already available on Amazon Sagemaker, the integrations of Teradata VantageCloud and ClearScape Analytics with Microsoft Azure ML and Google Cloud's Vertex AI are designed to operationalize AI/ML models with the scalability and performance of ClearScape Analytics. These integrations are designed to enable companies to access the full value of their data, put AI models into production, and to scale those models across the organization."
+      },
+      {
+        "text": "• Dataiku AI Models in ClearScape Analytics: Teradata launched new ClearScape Analytics capabilities that are designed to allow customers the ability to import and operationalize Dataiku AI models inside the Vantage platform. The combination of Dataiku and ClearScape Analytics is intended to empower customers to accelerate digital transformations and deliver AI-led business value."
+      },
+      {
+        "text": "Generative AI is ushering in new frontiers of creativity, productivity, and innovation. We believe that we can help enterprises accelerate AI value, including by:"
+      },
+      {
+        "text": "• Managing uncontrolled data growth: AI requires volumes of high-quality data. We deliver AI capabilities for our customers by providing a platform that is designed to integrate and harmonize data across the organization."
+      },
+      {
+        "text": "• Building a flexible, open, and connected ecosystem: Teradata’s Vantage architecture is designed to provide a flexible, open, and connected ecosystem to allow companies freedom to use their preferred tools and technologies with public or custom large language models (\"LLM\") to produce generative AI."
+      },
+      {
+        "text": "• Providing secure, trusted, and cost-effective AI: Teradata’s Vantage platform is designed to deliver a secure environment, while controlling costs."
+      },
+      {
+        "text": "Industry and Market Opportunity. As companies face mounting data demands, along with the need to extract value from this data, we believe that our opportunity to grow in the multi-billion dollar data management and analytics market will continue. Industry analysts forecast that the data management and analytics market will grow at a double-digit rate year-over-year for the next few years and it is expected that the market opportunity will continue to expand with the anticipated rapid and global adoption of AI. We believe that, in addition to companies facing significant ongoing increases in data volumes and proliferation of data silos, there will also be an increasing expectation that this data be trusted, secured, and democratized. Furthermore, the agility provided by cloud-based"
+      },
+      {
+        "text": "technologies can bring significant benefits, yet also creates complexity, particularly with the increased need that data and analytics ecosystems span multiple environments. These factors all contribute to the increased complexity, cost, and risk associated with managing data and analytic environments, as well as the rapidly emerging desire of customers to create and deliver value from AI. This is particularly true for our target market of global enterprise companies, and we believe that these companies require well integrated solutions that can accommodate significant agility, scale and speed. We are focused on supporting our on-premises customers and helping new and existing customers migrate to the cloud, upgrade from VantageCloud Enterprise to VantageCloud Lake, expand workloads in the cloud, grow platform adoption and software utilization, and demonstrate the capabilities we have for AI."
+      },
+      {
+        "text": "Our Strategy. We continue to focus on our strategy of providing the most complete cloud analytics and data platform for AI. We are continuing to execute our transformation to be \"cloud-first\" across all parts of our business, as we consistently drive for profitable growth. In this regard, our strategic growth objectives are to:"
+      },
+      {
+        "text": "• help our customers create enterprise value with harmonized data, trusted AI, and faster innovation;"
+      },
+      {
+        "text": "AI requires significant high-quality data to create value, as such integrating and harmonizing data across the organization is crucial. Our analytics and data offering is designed to be scalable, secure, highly concurrent and resilient in order to help companies solve complex data challenges at scale. We provide a data management solution that enables enterprises to support their data and analytic ecosystems, enable consistent data across business units, and easily grow and scale. Furthermore, as demand shifts to the cloud, we provide enterprise customers with the flexibility to address their hybrid and multi-cloud data and analytics needs, empowering operational, ad-hoc analytic and mixed workloads, whether in the cloud or on-premises."
+      },
+      {
+        "text": "Our strategy is further supported by our commitment to be a responsible corporate citizen. We believe it is our responsibility to make a positive impact on and support important issues, such as addressing the climate crisis and environmental sustainability, responsible use of AI, promoting diversity, equity and inclusion, supporting communities where we live and work, protecting data privacy, and acting ethically in everything we do."
+      },
+      {
+        "text": "• grow awareness of Teradata as a hybrid multi-cloud leader, highlighting our technology leadership and innovation, differentiation, cloud, and analytics and AI expertise;"
+      },
+      {
+        "text": "• create demand for, and adoption and expanded use of, our technologies, including Teradata VantageCloud Enterprise, Teradata VantageCloud Lake, ClearScape Analytics, and Teradata AI Unlimited, as well as related services; and"
+      },
+      {
+        "text": "Our brand messaging is intended to highlight Teradata’s role as a leader in AI, analytics, and cloud data and on our strength as a leading connected multi-cloud data platform for enterprise analytics. To support our growth objectives, we employ a broad range of modern marketing strategies, including programs designed to inform, educate and generate demand with customers and prospects. These strategies include our global website, digital marketing, demos and trials of our software, webinars, conferences and events, public and media relations, social media, a customer reference program, and targeted account-based marketing."
+      },
+      {
+        "text": "• Alliance Partners: Teradata has a focus on working collaboratively with independent software vendors in several areas, including AI/ML and large language models (\"LLMs\"), tools, data and application integration solutions, data mining, analytics, business intelligence, and specific analytic and industry solutions. Our goal is to provide choices to our customers with partner offerings that are optimized and certified to work with the Teradata Vantage platform to deliver end-to-end analytic and data solutions and to provide comprehensive capabilities that support the customer’s business goals and work within their analytic ecosystem."
+      },
+      {
+        "text": "Competition. We compete in a large and growing data management and analytics market that is attractive to both current and new competitors. There is a large number of vendors in the analytics and data market and the market landscape of vendors is rapidly increasing with the introduction and increasing traction of cloud and AI. Participants include AWS, Databricks, Google Cloud, Microsoft Azure, Snowflake, and more; the competitive market also comprises traditional legacy competitors. We believe our focus on AI, hybrid and multi-cloud ecosystem simplification, providing solutions for the most scalable and complex workloads, and providing products designed to achieve desired business outcomes of our customers, enables us to successfully compete within our target market. We believe that our technology innovations of the Teradata Vantage platform, including Teradata VantageCore, Teradata VantageCloud Enterprise, Teradata VantageCloud Lake, ClearScape Analytics, and Teradata AI Unlimited are highly differentiated, deliver scale and integration, and are positioned to provide business value to our customers. Furthermore, we provide our customers with the opportunity to de-risk their buying decisions with the ability to deploy across the top public clouds, private cloud and on-premises, coupled with flexibility in purchasing and portable licensing. For more information on competition, see Item 1A, Risk Factors, in this Annual Report."
+      },
+      {
+        "text": "We believe that the principal competitive factors for our products and services include: data and analytics experience; business outcome delivery; hybrid multi-cloud offerings and experience; total cost of ownership; customer references; technology leadership; product quality; performance, scalability, availability, integrity, security, and manageability; partner relationships; support and consulting services capabilities; management of technologies in a complex analytical ecosystem; delivery of a platform and tools that are designed to provide AI for our customers; and industry knowledge."
+      },
+      {
+        "text": "Research and Development (\"R&D\"). We remain focused on designing and developing our analytics and data platform that anticipates our customers' evolving needs and supports solving their complex business challenges. Our teams are extending Teradata technologies and innovations for the Teradata Vantage platform, including Teradata VantageCloud Enterprise, Teradata VantageCloud Lake, ClearScape Analytics, and Teradata AI Unlimited in order to have consistent and differentiated capabilities that meet the demands of todays’ multi-cloud and hybrid ecosystems. We have delivered significant innovations such as VantageCloud Lake. With extensive in-database functionality, seamless and expedited interconnectivity, and robust features for easy operationalization, ClearScape Analytics is designed to enable companies to scale AI/ML quicker and more effectively. Aligning to the growing AI-enabled world, we acquired Stemma Technologies to enhance data search and exploration."
+      },
+      {
+        "text": "With a focus on creating a truly open and connected platform, we continue to build a deep integration with cloud data and analytic ecosystems, including advanced analytics and AI/ML tools. Furthermore, with our strong partnerships, our R&D team is extending our platform to enable deeper integration with a broader range of solution and service providers."
+      },
+      {
+        "text": "A core component of our business strategy is to expand and enhance our product offerings, particularly for analytic solutions in a cloud-based environment with cloud service providers, to include newer market-relevant features, functionality, and cloud native options, including AI/ML, and to keep pace with price-to-performance gains. In this regard, we have launched our Teradata VantageCloud Lake and Teradata VantageCloud Enterprise components of our Teradata Vantage platform, have focused on migrating our customers from on-premises environments to the cloud and upgrading our customers from our VantageCloud Enterprise environment to our VantageCloud Lake environment, and consistently released additional capabilities and new cloud platforms throughout 2023, and we expect that we will continue to enhance our cloud offerings in the future. In addition, we are focused on expanding our customer's workloads in both our on-premises and cloud platforms. Shortened product life cycles due to customer demands and competitive pressures impact the pace at which we must introduce and implement new technology as part of our product offerings. "
+      },
+      {
+        "text": "In 2023, Teradata introduced a new brand identity. With this brand we strive to be modern, innovative, and reflective of our vision for the future. Our updated brand is designed to highlight Teradata’s role as a leader in AI, analytics, and cloud data. We believe that recognition and the reputation of our brand is key to our success, including our ability to retain existing customers and attract new customers. While we leverage our decades of experience in data analytics and database management services, we believe we have evolved to provide the modern offerings customers need. These include the cloud-native architecture of Teradata VantageCloud Lake, the end-to-end pipeline of AI/ML capabilities in ClearScape Analytics, and our AI and ML engine in the cloud that delivers a completely self-service and serverless experience of Teradata AI Unlimited. The failure for the market to recognize our new brand or misperceptions in the market regarding our cloud, AI, or other capabilities could negatively impact our ability to upgrade existing on-premises customers to our cloud-based solutions or from VantageCloud Enterprise to VantageCloud Lake, drive expansion/consumption growth, and/or acquire new customers for our on-premises and cloud businesses. In addition, damage to the reputation of our brands could result in, among other things, customer cancellations or non-renewals, lower employee retention and productivity, vendor relationship issues, and investor and other stakeholder scrutiny, all of which could materially affect our revenue and profitability."
+      },
+      {
+        "text": "Our cloud and service offerings are designed to offer AI/ML capabilities, which exposes us to an uncertain regulatory environment and rapidly changing technology where any inability to comply with any such regulations may result in reputational harm, liability and disruption to our business operations."
+      },
+      {
+        "text": "The AI/ML regulatory environment is rapidly evolving, and it is difficult to predict the impact the evolving regulatory landscape may have on our business, results of operations and financial condition. Teradata VantageCloud Enterprise, Teradata VantageCloud Lake, and ClearScape Analytics are designed to deliver harmonized data, AI/ML, and faster innovation to facilitate better decision-making. AI/ML technologies are rapidly"
+      },
+      {
+        "text": "• New and emerging analytic technologies, including for AI/ML, competitors, and business models;"
+      },
+      {
+        "text": "In addition, we are subject to diverse and complex laws and regulations, including those relating to technology, including AI/ML, corporate governance, data privacy, public disclosure, and reporting, which are rapidly changing and subject to possible changes in the future. From time to time, we may conduct internal investigations to ensure compliance with such laws and regulations, the costs or results of which could impact our financial results. In addition, we may be subject to unexpected costs in connection with new public disclosure or other regulatory requirements that are issued from time to time. Laws and regulations impacting our customers, such as those relating to privacy, data protection and digital marketing, could also impact our future business. Because we do"
+      },
+      {
+        "text": "trusted solutions for their toughest data and analytics challenges. That is why we built our comprehensive open and connected cloud analytics and data platform for artificial intelligence (\"AI\"). With our Teradata Vantage platform, underpinned by our extensive patented workload management optimization, we are well positioned to help enterprises solve business problems and deliver business breakthroughs with its capabilities to provide harmonized data, trusted AI, and faster innovation. As a result, we believe that we empower our customers - and our customers' customers - to make better, more confident decisions, engage in faster innovation, and drive positive impact within the enterprise."
+      },
+      {
+        "text": "We are continuing to execute on our key priorities, including supporting our on-premises customers, migrating customers to the cloud, upgrading customers from VantageCloud Enterprise to VantageCloud Lake, expanding our Teradata Vantage analytics and data platform product offering (which includes VantageCloud Enterprise, VantageCloud Lake, and ClearScape Analytics), adding new customers and expanding our footprint with existing customers, informing our customers on our AI capabilities, increasing our focus on diversity and inclusiveness, and driving operational excellence and agility across the Company."
+      },
+      {
+        "text": "We expect to continue investing in activities that generate growth in AI, enhance commercial awareness of our brand, and continue to drive increased adoption and consumption of the Teradata VantageCloud platform, including greater efficiencies with cloud service providers."
+      },
+      {
+        "text": "We intend to continue investing in areas that generate growth, such as AI/ML, demand creation, and brand awareness. We expect to balance these investments with cost discipline in non-revenue generating areas and productivity improvements."
+      },
+      {
+        "text": "Description of the Business. Teradata Corporation (\"we,\" \"us,\" \"Teradata,\" or the \"Company\") is focused on helping organizations improve business performance, enrich customer experiences, and integrate data across the enterprise. As such, we strive to innovate and deliver trusted solutions for complex data and analytics challenges. That's why we built our comprehensive open and connected cloud analytics and data platform for artificial intelligence (\"AI\"). Our Teradata Vantage platform is designed to help enterprises solve business problems and deliver business breakthroughs with its capabilities to provide harmonized data, trusted AI, and faster innovation."
+      }
+    ],
+    "2010": [
+      {
+        "text": "Active Enterprise Intelligence. Teradata extends the use of traditional data warehousing by integrating advanced analytics into enterprise business processes through a solution known as Active Enterprise Intelligence, which reduces the time between obtaining information and acting on it. Specifically, this advanced solution integrates detailed historical information with near real-time data, and then deploys timely, accurate strategic intelligence to knowledge workers in the corporate office as well as operational intelligence to front line users, customers and partners."
+      },
+      {
+        "text": "Through active enterprise intelligence, Teradata is extending the use of traditional enterprise data warehousing (“EDW”) by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur."
+      }
+    ],
+    "2012": [
+      {
+        "text": "Active Enterprise Intelligence. Teradata extends the use of traditional data warehousing by integrating advanced analytics into enterprise business processes through a solution known as Active Enterprise Intelligence, which reduces the time between obtaining information and acting on it. Specifically, this advanced solution integrates detailed historical information with near real-time data, and then deploys timely, accurate strategic intelligence to knowledge workers in the corporate office as well as operational intelligence to front line users, customers and partners."
+      },
+      {
+        "text": "We are continually evaluating the most effective ways to extend Teradata’s core technology and expand our family of compatible data warehouse platforms and analytic software applications to address multiple market segments and solution offerings. From time to time, this includes using acquisitions, equity investments, joint ventures or strategic alliances. For example, Teradata acquired Aprimo, an integrated marketing software company on January 21, 2011, and Aster Data, a market leader in advanced analytics and the management of diverse, multi-structured data, on April 5, 2011. Such transactions entail various risks, including risks associated with:"
+      },
+      {
+        "text": "Through active enterprise intelligence, Teradata is extending the use of traditional data warehousing by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur."
+      },
+      {
+        "text": "In 2011, Teradata completed its acquisitions of Aprimo, Inc. (“Aprimo”), a global provider of integrated marketing software solutions, as well as Aster Data Systems, Inc. (“Aster Data”), a market leader in advanced analytics and the management of diverse, multi-structured data. Both Aprimo and Aster Data have been integrated into Teradata’s operations. With Aprimo, Teradata has expanded its offering of business analytics with integrated marketing solutions that enable customers to improve marketing performance with data-driven insights. The Aprimo organization supports Teradata’s applications strategy, including development, marketing, sales, and services. Through the acquisition of Aster Data, Teradata has expanded its technologies that enable businesses to perform better analytics on large sets of multi-structured data, also known as big data analytics."
+      },
+      {
+        "text": "On April 5, 2011, Teradata completed its acquisition of all remaining equity of Aster Data, pursuant to an Agreement and Plan of Merger, dated March 2, 2011. Aster Data is a market leader in advanced analytics and the management of diverse, multi-structured data. The combination of Teradata and Aster Data technologies enables businesses to perform better analytics on large sets of multi-structured data, also known as “big data.”"
+      }
+    ],
+    "2016": [
+      {
+        "text": "Alliance Partners -Strategic partnerships are a key factor in our ability to leverage the value and expand the scope of our analytic data platforms and marketing applications in the marketplace. Our partner program is focused on working collaboratively with independent software vendors in several areas critical to our analytic data platforms, including tools, data and application integration solutions, data mining, analytics, business intelligence, specific horizontal and industry solutions, and those that help integrate digital marketing across multiple solutions and vendors. Our goal is to provide choices to our customers with partner offerings that are optimized and certified with our solutions, and fit within the customer’s environment. Our strategic alliance partners include many leaders in the business intelligence, data acquisition, advanced analytics, big data, Hadoop and marketing applications markets."
+      }
+    ],
+    "2009": [
+      {
+        "text": "Active Enterprise Intelligence. Teradata extends the use of traditional data warehousing by integrating advanced analytics into enterprise business processes through a solution known as Active Enterprise Intelligence, which reduces the time between obtaining information and acting on it. Specifically, this advanced solution integrates detailed historical information with near real-time data, and then deploys timely, accurate strategic intelligence to knowledge workers in the corporate office as well as operational intelligence to front line users, customers and partners."
+      },
+      {
+        "text": "Through active enterprise intelligence, Teradata is extending the use of traditional enterprise data warehousing (“EDW”) by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur."
+      }
+    ],
+    "2023": [
+      {
+        "text": "calculations, data preparation, and significant machine learning capabilities. Our ClearScape Analytics capabilities provide the analytics enterprises need to improve business performance and drive profitable growth."
+      },
+      {
+        "text": "• establish Teradata’s position as a cloud-native platform with leading advanced analytics capabilities;"
+      },
+      {
+        "text": "• Alliance Partners: Teradata has a focus on working collaboratively with independent software vendors in several areas, including AI/ML, tools, data and application integration solutions, data mining, analytics, business intelligence, and specific analytic and industry solutions. Our goal is to provide choices to our customers with partner offerings that are optimized and certified to work with the Teradata Vantage platform to deliver end-to-end data and analytic solutions and to provide comprehensive capabilities that support the customer’s analytic ecosystem."
+      },
+      {
+        "text": "Research and Development (\"R&D\"). We remain focused on designing and developing our analytics and data platform that anticipates our customers' evolving needs and supports solving their complex business challenges. Our teams are extending Teradata technologies and innovations: the Teradata Vantage platform, including Teradata VantageCloud, and ClearScape Analytics, in order to have consistent and differentiated capabilities that meet the demands of todays’ multi-cloud and hybrid ecosystems. We have delivered significant innovations such as VantageCloud Lake, our cloud-native analytics and data offering. With extensive in-database functionality, seamless and expedited interconnectivity, and robust features for easy operationalization, ClearScape Analytics enables companies to scale AI/ML quicker and more effectively."
+      },
+      {
+        "text": "We are simplifying our customers' journeys to cloud, empowering compelling analytics, as well as enabling a transformative cloud experience. With a focus on creating a truly open platform, we continue to build a deep integration with cloud data and analytic ecosystems, including advanced analytics and AI/ML tools. Furthermore, with our strong partnerships, our R&D team is extending our platform to enable deeper integration with a broader range of solution and services providers."
+      }
+    ],
+    "2021": [
+      {
+        "text": "• Creating more efficient utilization of assets through machine learning of sensor data."
+      },
+      {
+        "text": "Research and Development (\"R&D\"). We remain focused on designing and developing data warehouse technologies that anticipate our customers' evolving needs and support our customers in solving their most complex business challenges. Our teams are focused on extending our Teradata Vantage data warehouse platform to have differentiated capabilities for our customers’ multi-cloud and hybrid ecosystems. This includes simplifying the journey to cloud, as well as enabling a transformative cloud experience. With a focus on opening up the platform, we are building out deep integration with cloud data and analytic ecosystems, including advanced analytics and artificial intelligence tools. Furthermore, with a strong focus on partnerships, our R&D team is extending our platform to enable deeper partner integration with a broader range of solution and services providers."
+      }
+    ],
+    "2014": [
+      {
+        "text": "Active Intelligence. Teradata extends traditional data warehousing by integrating advanced analytics into enterprise business processes through Active Intelligence, the process of reducing the time between obtaining information and acting on it. Specifically, Active Intelligence integrates detailed historical information with near real-time data, to deploy timely, accurate strategic intelligence to knowledge workers in the corporate office as well as operational intelligence to front line users, customers and partners."
+      },
+      {
+        "text": "Our analytic data platforms are designed to integrate an organization’s departmental and enterprise-wide data — about customers, financials, operations, and more — into a unified and cohesive view of the business. Through active intelligence, we extend the use of traditional data warehousing by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur. Our big data analytic platforms provide data collection and data discovery from ever increasing volumes of diverse, multi-structured data. Our range of analytic applications, the Teradata and Teradata Aster databases, workload-specific platforms, big data analytics and cloud-based solutions, help customers drive more complete and complex analytics to enhance both top- and bottom-line performance and extend their competitive advantage in today’s global marketplace. Our marketing applications leverage data to help organizations manage their marketing operations, plan and execute campaigns, and communicate with their customers across all channels. "
+      },
+      {
+        "text": "We believe that demand for our analytic data platforms will continue to increase due to the continued growth of data volumes and types of data, the scale and complexity of business requirements, and the growing use of new data elements and more analytics over time. The adoption by customers of a broader set of analytics including predictive analytics, path analysis, network analysis/graph, and many others is driving more applications, usage and capacity. This increased breath of analytics also drives the need for an overall architecture to manage an increasingly complex analytics environment. As a result, we expect that Teradata’s leadership in analytic data platforms and Unified Data Architecture positions us well for future growth. In addition, we believe that our strong competitive position in integrated marketing management, including our marketing operations, campaign management and digital messaging offerings, will contribute to our growth and be increasingly synergistic with the Company’s big data analytics business as companies gain competitive advantage through data-driven marketing with their customers."
+      },
+      {
+        "text": "In April 2011, Teradata completed its acquisition of all remaining equity of Aster Data. Prior to the acquisition Teradata held an 11.2% equity interest in Aster Data. Aster Data was a market leader in advanced analytics and the management of diverse, multi-structured data. The combination of Teradata and Aster Data technologies enables businesses to perform better analytics on large sets of multi-structured data, also known as “big data analytics.”"
+      }
+    ],
+    "2008": [
+      {
+        "text": "Active Enterprise Intelligence. Teradata extends the use of traditional data warehousing by integrating advanced analytics into enterprise business processes through a solution known as Active Enterprise Intelligence, which reduces the time between obtaining information and acting on it. Specifically, this advanced solution integrates detailed historical information with near real-time data, and then deploys timely, accurate intelligence to decision-makers at all levels of the enterprise. We believe that our Active Enterprise Intelligence solution enables consistent execution of corporate strategy by allowing the strategic decisions devised by senior management to become operationalized and flow to front line employees, such as call center operators, gate agents, bank tellers and cashiers, as well as to customers, partners, and suppliers."
+      },
+      {
+        "text": "Through active enterprise intelligence, Teradata is extending the use of traditional data warehousing by integrating advanced analytics into enterprise business processes, allowing companies to combine the analysis of current and historical data so operations personnel can make decisions at the point of contact or service and take action as events occur."
+      }
+    ]
+  }
+}

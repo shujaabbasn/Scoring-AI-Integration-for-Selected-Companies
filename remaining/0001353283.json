@@ -1,0 +1,43 @@
+{
+  "cik": "0001353283",
+  "filings": {
+    "2018": [
+      {
+        "text": "Our machine data platform uses our patented data processing architecture that performs dynamic schema creation at read time, rather than write time, enabling users to run queries on data without having to define or understand the structure of the data prior to collection and indexing. This is in contrast to traditional IT systems that require users to establish the format of their data prior to collection in order to answer a pre-set list of questions. Splunk Enterprise also enables customers to interactively explore, analyze and visualize data stored in data sources such as Hadoop and Amazon S3. Our technology delivers speed, scalability and advanced analytics including machine learning when processing massive amounts of machine data for anomaly detection, event grouping, prediction and other methods. Our software leverages improvements in the cost and performance of commodity computing and can be deployed in a wide variety of computing environments, from a single laptop to large globally distributed data centers as well as public, private and hybrid cloud environments."
+      },
+      {
+        "text": "Splunk IT Service Intelligence - Monitors the health and key performance indicators of critical IT and business services with machine learning."
+      },
+      {
+        "text": "Splunk User Behavior Analytics - Detects cyber-attacks and insider threats using data science, machine learning and advanced correlation."
+      },
+      {
+        "text": "Splunk Machine Learning Toolkit (“MLTK”) - A free app that enables customers to apply machine learning techniques and algorithms to data stored in Splunk. The MLTK includes public machine learning application programming interfaces (“APIs”) for open source and proprietary algorithms and a data prep module to help customers prepare and clean their data before initiating machine learning modeling."
+      },
+      {
+        "text": "Some of our offerings address markets where other pricing models may be prevalent. For example, the pricing of Splunk User Behavior Analytics, which helps detect cyber-attacks and insider threats using data science, machine learning and advanced correlation, is based on the number of monitored user and system accounts."
+      },
+      {
+        "text": "Search processing language. Our proprietary search processing language is specifically designed for working with machine data. Our search language supports arithmetic operations to refine searches and conduct calculations with the results of a query in real time. Statistical and reporting commands native to our search language, including machine learning algorithm support, let users perform more robust calculations and analytics. Our software can also learn about the structure of the machine data through the searches users conduct, allowing users to utilize the machine data structure and knowledge garnered by previous Splunk searches. Our software includes acceleration technology that delivers high performance for analytical operations across terabytes or petabytes of data, such as identifying rare terms and performing aggregation operations."
+      },
+      {
+        "text": "Machine Learning . The Splunk platform allows our customers to apply machine learning analytics to better predict and help prevent IT, security and IoT incidents, and can also be used to forecast key business indicators. Machine learning embedded in our software offers customers advanced analytics as an integrated, turnkey part of IT and security use cases."
+      },
+      {
+        "text": "Splunk Cloud customers pay an annual subscription fee based on the combination of the volume of data indexed per day and the length of the data retention period. Splunk Light provides log search and analysis that is designed, priced and packaged for small IT environments, where a single-server log analytics solution is sufficient. Splunk Enterprise Security addresses emerging security threats and security information and event management (\"SIEM\") use cases through monitoring, alerts and analytics. Splunk IT Service Intelligence monitors the health and key performance indicators of critical IT and business services. Splunk User Behavior Analytics detects cyber-attacks and insider threats using data science, machine learning and advanced correlation."
+      },
+      {
+        "text": "We have utilized and expect to continue to utilize acquisitions to contribute to our long-term growth objectives. During fiscal 2018 we completed a number of acquisitions, including SignalSense Inc., which develops cloud-based data collection and breach detection solutions that leverage machine learning, and Rocana Inc., which develops analytics solutions for the IT market."
+      },
+      {
+        "text": "On October 6, 2017, we acquired certain assets of Rocana, Inc. (“Rocana”), a privately-held Delaware corporation that develops analytics solutions for the IT market. This acquisition has been accounted for as a business combination. The purchase price of $30.2 million , paid in cash, was preliminarily allocated as follows: $10.1 million to identifiable intangible assets, with the excess $20.1 million of the purchase price over the fair value of net assets acquired recorded as goodwill. This goodwill is primarily attributable to the value expected from the synergies of the combination, including advancing the analytics and machine learning capabilities of our products, and is deductible for income tax purposes. The results of operations of the acquired entity, which are not material, have been included in our consolidated financial statements from the date of purchase. Pro forma and historical results of operations of the acquired entity have not been presented as we do not consider the results to have a material effect on any of the periods presented in our consolidated statements of operations. We are currently finalizing the allocation of the purchase price, which may be subject to change as additional information becomes available to us."
+      },
+      {
+        "text": "On September 29, 2017, we acquired 100% of the voting equity interest of SignalSense Inc. (“SignalSense”), a privately held Washington corporation that develops cloud-based data collection and breach detection solutions that leverage machine learning. This acquisition has been accounted for as a business combination. The purchase price of $12.2 million , paid"
+      },
+      {
+        "text": "in cash, was preliminarily allocated as follows: $11.3 million to identifiable intangible assets acquired, $0.2 million in net assets and $2.0 million to net deferred tax liabilities, with the excess $2.7 million of the purchase price over the fair value of net assets acquired recorded as goodwill. This goodwill is primarily attributable to the value expected from the synergies of the combination, including developing more advanced cloud and machine learning capabilities for our products, and is not deductible for income tax purposes. The results of operations of the acquired entity, which are not material, have been included in our consolidated financial statements from the date of purchase. Pro forma and historical results of operations of the acquired entity have not been presented as we do not consider the results to have a material effect on any of the periods presented in our consolidated statements of operations. We are currently finalizing the allocation of the purchase price, which may be subject to change as additional information becomes available to us."
+      }
+    ]
+  }
+}

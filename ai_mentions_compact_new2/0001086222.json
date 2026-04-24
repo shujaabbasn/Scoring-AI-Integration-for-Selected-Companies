@@ -1,0 +1,80 @@
+{
+  "cik": "0001086222",
+  "filings": {
+    "2018": [],
+    "2019": [],
+    "2015": [],
+    "2009": [
+      {
+        "text": "With respect to our new ADS offerings, we compete with a range of other companies that provide targeted advertising solutions. At the same time, some of the companies that offer competitive solutions have entered into strategic agreements with us that we believe are mutually beneficial. We compete on the basis of our technology, the availability of our data co-operative, our predictive analytics capabilities, the ability to leverage existing business relationships and price."
+      }
+    ],
+    "2008": [],
+    "2024": [
+      {
+        "text": "We regularly face attempts to gain unauthorized access or deliver malicious software to Akamai Connected Cloud and our internal IT systems, with the goal of stealing proprietary information related to our business, products, employees and customers; disrupting our systems and services or those of our customers or others; or demanding ransom to return control of such systems and services. These attempts take a variety of forms, including Distributed Denial of Service (DDoS) attacks, infrastructure attacks, botnets, malicious file uploads, application abuse, credential abuse, social engineering, ransomware, bugs, viruses, worms and malicious software programs. Additionally, the use of artificial intelligence by bad actors has heightened the sophistication and effectiveness of these types of attacks. There have in the past and could in the future be attempts to infiltrate our systems through our supply chain and contractors. Malicious actors are known to attempt to fraudulently induce employees and suppliers to disclose sensitive information through illegal electronic spamming, phishing or other tactics. Other parties may attempt to gain unauthorized physical access to our facilities in order to infiltrate our internal-use information systems. Furthermore, nation state and hacktivist attacks against us or our customers may intensify during periods of heightened geopolitical tensions or armed conflict, such as the ongoing war in Ukraine and the Israel-Hamas War. "
+      },
+      {
+        "text": "Enactment and expansion of such laws and regulations would negatively impact our revenues. For example, restrictions were adopted in India in 2020 prohibiting access to identified Chinese applications, which caused a reduction in revenue to us. In addition, such laws and regulations could cause internet service providers, or others, to block our products in order to enforce content-blocking efforts. In addition, efforts to block a single product or domain name may end up blocking a number of other products or domain names in an overbroad manner that could affect our business. In addition to regulations related to content, enactment and expansion of laws related to the use of artificial intelligence and machine learning in our operations and increased regulation of cloud services providers also could increase costs of doing business, subject us to potential liability or regulatory risk and introduce other disadvantages to our business, including brand or reputational harm. Interpretations of laws or regulations that would subject us to regulatory enforcement actions, supervision or, in the alternative, require us to exit a line of business or a country, could lead to the loss of significant revenues and have a negative impact on the quality of our solutions. Engineering efforts to build new capabilities to facilitate compliance with law enforcement access requirements, content access restrictions or other regulations could require us to take on substantial expenses and divert engineering resources from other projects. "
+      }
+    ],
+    "2025": [
+      {
+        "text": "We provide solutions in three core offerings: security, delivery and compute. We also provide services and support for our customers as they utilize our solutions. As part of our mission to make life better for millions of businesses, trillions of times per day, Akamai is committed to enabling our customers to benefit from the latest technology developments. In recent years, artificial intelligence (\"AI\") has been a major focus of corporate initiatives for enterprises in multiple verticals and across the globe. To help our customers seize on the power and potential of AI, we provide cloud computing infrastructure that they can use to build AI-powered applications; cybersecurity solutions, powered by AI and automation, designed to defend against prompt injections, data exfiltration and toxic outputs; generative AI to improve the speed and efficiency of identifying and investigating malicious or suspect activity; and throughput on our global intelligent network to enable the large volumes of data required to power AI-powered applications and facilitate effective real-time protections."
+      },
+      {
+        "text": "This is part of a growing set of solutions designed to help businesses implement a Zero Trust security architecture. Our acquisition of Guardicore Ltd. (\"Guardicore\") in October 2021 has enabled us to deliver the Akamai Guardicore Platform, which simplifies enterprise security with broad visibility and granular controls through one console. The Akamai Guardicore Platform simply and efficiently enables Zero Trust through a fully integrated combination of microsegmentation, Zero Trust Network Access, multi-factor authentication, domain name system (\"DNS\") firewall and threat hunting. Guardicore’s microsegmentation solution helps our customers prevent malicious lateral movement in their network through precise segmentation policies, visuals of activity within their IT environment and network security alerts. The platform leverages AI to simplify user experience, vulnerability assessments, compliance and incident response, helping to protect businesses from the threat of ransomware. AI network labeling examines how assets are behaving and suggests labels to help security teams apply appropriate controls, and generative AI allows security professionals to ask natural language questions of their network, instead of manually poring through logs, to drastically expedite a variety of use cases like compliance scoping and incident response."
+      },
+      {
+        "text": "Distributed compute regions provide access to powerful dedicated compute, storage and networking services in major metros that lack cloud computing options and availability, enabling organizations to place compute-intensive workloads as close as possible to end users. These regions act as an extension of primary infrastructure deployed in core compute regions for organizations that aim to improve application performance to attract new customers in new or target regions, and/or stabilize performance to meet user expectations. We also introduced new NVIDIA graphics processing units (\"GPUs\") to provide better productivity and economics for companies in the media and entertainment industry that are challenged with processing video content faster and more efficiently, and for organizations seeking to deploy AI inferencing workloads closer to end users. These GPUs are well-suited for video transcoding and live video streaming, virtual reality and augmented reality content, gaming and graphics rendering, training and inference with neural networks, data analysis and scientific computing and high-performance computing applications, such as modeling and simulation, that require fast and efficient processing of large amounts of data."
+      },
+      {
+        "text": "The development timetable is uncertain and we may commit significant resources to developing solutions for which a viable market may not ultimately develop. For example, we are investing significant resources in our compute solutions and platform, working on expanding the capacity of these facilities, adding additional sites and developing increased compute features and functionality. Success in these efforts is not guaranteed and will largely depend on our ability to create products that are competitive in the enterprise market, source additional co-location facilities, manage an uncertain supply chain for server related hardware and adapt our offerings to new or emerging technologies and changes in customer requirements, including those related to artificial intelligence workloads. In addition, we have experienced, and may in the future experience, delays in developing and releasing new products and product enhancements. This could cause our expenses to grow more rapidly than our revenue."
+      },
+      {
+        "text": "We regularly face attempts to gain unauthorized access or deliver malicious software to Akamai's platforms, products and services and our internal IT systems, with the goal of stealing proprietary information related to our business, products, employees and customers; disrupting our systems and services or those of our customers or others; or demanding ransom to return control of such systems and services. These attempts take a variety of forms, including Distributed Denial of Service (\"DDoS\") attacks, infrastructure attacks, botnets, malicious file uploads, application abuse, credential abuse, social engineering, ransomware, bugs, viruses, worms and malicious software programs. Additionally, the use of artificial intelligence by bad actors has heightened the sophistication and effectiveness of these types of attacks, and may be used to create attacks that current processes and technologies are unable to adequately address. There have in the past and could in the future be attempts to infiltrate our systems through our supply chain and contractors. Malicious actors are known to attempt to fraudulently induce employees and suppliers to disclose sensitive information through illegal electronic spamming, phishing or other tactics. Other parties may attempt to gain unauthorized physical access to our facilities in order to infiltrate our internal-use information systems. Furthermore, nation state and hacktivist attacks against us or our customers have in the past and may in the future intensify during periods of heightened geopolitical tensions or armed conflict, such as the ongoing war in Ukraine and the Israel-Hamas War. "
+      },
+      {
+        "text": "We may not be successful in our artificial intelligence initiatives, which could adversely affect our business, reputation, or financial results."
+      },
+      {
+        "text": "Artificial intelligence (\"AI\"), presents new risks and challenges that may affect our business. We have made, and expect to continue to make investments to integrate AI and machine learning technology into our products and solutions. Given the nature of AI technology, we face significant competition from other companies and an evolving regulatory landscape. Our AI efforts may not be successful and our competitors may incorporate AI into their products more successfully than us, which could impair our ability to compete effectively and adversely affect our financial results. The rapid evolution of AI combined with the uncertain and often inconsistent regulatory landscape may require significant additional resources and costs and could in some cases limit our ability to implement AI capabilities in our solutions or to use AI to support business operations. Further, data used to train AI-based systems may lead to harm to our reputation. Despite our implementation of programs designed to support responsible AI use and development, we may not successfully address all issues that may arise. For example, privacy concerns, user consent, supply chain security, transparency and the accuracy, completeness and suitability of data sets are all potential issues that could adversely affect our business, reputation, or financial results."
+      },
+      {
+        "text": "In addition, enactment and expansion of laws related to the use of artificial intelligence and machine learning in our operations and increased regulation of cloud service providers also could increase the costs of doing business, subject us to potential liability or regulatory risk and introduce other disadvantages to our business, including brand or reputational harm. Interpretations of laws or regulations that would subject us to regulatory enforcement actions, supervision or, in the alternative, require us to exit a line of business or a country, could lead to the loss of significant revenues and have a negative impact on the"
+      }
+    ],
+    "2010": [
+      {
+        "text": "With respect to our ADS offerings, we compete with a range of other companies that provide targeted advertising solutions. At the same time, some of the companies that offer competitive solutions have entered into strategic agreements with us that we believe are mutually beneficial. We compete on the basis of our technology, the availability of our data co-operative, our predictive analytics capabilities, the ability to leverage existing business relationships and price."
+      }
+    ],
+    "2017": [],
+    "2012": [
+      {
+        "text": "With respect to our ADS offerings, we compete with a range of other companies that provide targeted advertising solutions. At the same time, some of the companies that offer competitive solutions have entered into strategic agreements with us that we believe are mutually beneficial. We compete on the basis of our technology, the availability of our data co-operative, our predictive analytics capabilities, the ability to leverage existing business relationships and price."
+      }
+    ],
+    "2021": [],
+    "2016": [],
+    "2007": [],
+    "2014": [
+      {
+        "text": "Managed CDN – Our managed CDN offering provides a network operator with dedicated CDN capacity that is available for its own content applications or third party CDN services. Akamai servers are deployed inside the operator network and are managed by Akamai on behalf of the network operator. The operator can utilize our customer portal to self-provision and control its content and generate usage reports and advanced analytics. Because this CDN capacity is dedicated to the network operator's usage, the operator can make the decisions on where the servers are placed, how much capacity is needed and for what services they will be used."
+      }
+    ],
+    "2011": [
+      {
+        "text": "With respect to our ADS offerings, we compete with a range of other companies that provide targeted advertising solutions. At the same time, some of the companies that offer competitive solutions have entered into strategic agreements with us that we believe are mutually beneficial. We compete on the basis of our technology, the availability of our data co-operative, our predictive analytics capabilities, the ability to leverage existing business relationships and price."
+      }
+    ],
+    "2022": [],
+    "2013": [
+      {
+        "text": "• Managed CDN - provides a network operator with dedicated CDN capacity that is available for its own content applications or third party CDN services. Akamai servers are deployed inside the operator network and are managed by Akamai on behalf of the network operator. The operator can utilize our customer portal to self-provision and control its content and generate usage reports and advanced analytics. Because this CDN capacity is dedicated to the network operator's usage, the operator can make the decisions on where the servers are placed, how much capacity is needed, and for what services they will be used."
+      }
+    ],
+    "2020": [],
+    "2023": []
+  }
+}

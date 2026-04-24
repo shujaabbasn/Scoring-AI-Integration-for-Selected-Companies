@@ -1,0 +1,19 @@
+{
+  "cik": "0000002488",
+  "filings": {
+    "2018": [
+      {
+        "text": "In addition to graphics processing, GPUs are used to perform parallel operations on multiple sets of data and are increasingly used to perform vector processing for non-graphics applications that require repetitive computations such as supercomputing, deep learning, artificial and machine intelligence, and various other applications (e.g., cryptocurrency mining)."
+      },
+      {
+        "text": "In addition to traditional graphics markets, there is a large and growing market for graphics compute which is primarily made up of high performance compute and machine learning/deep learning. Traditional high performance compute focuses on scientific research, model simulation, and exploration which is mainly driven by university and government research needs for high precision graphics compute workloads. The second market is the rapidly growing area of machine learning and deep learning workloads. Graphics processors are used both in the training of machine learning models as well as the application of models via inference. The expansion of compute workloads on graphics processors is driving market expansion for traditional graphics silicon."
+      },
+      {
+        "text": "AMD Radeon Pro graphics cards are designed for demanding use cases such as Design and Manufacturing for computer assisted design (CAD) and Digital Content Creation (DCC) for broadcast and animation pipelines. AMD Radeon Pro supports end users utilizing VR and augmented reality (AR) for professional use cases such as visualization for construction, architecture and mechanical design. Software drivers for AMD Radeon Pro cards are designed to deliver high stability and performance across a wide variety of software packages including those requiring certifications for end user use. Our AMD Radeon™ Instinct family of GPU products are specifically designed to address growing demand for datacenter applications, including deep learning training and inference, as well as traditional high performance computing (HPC) workloads such as simulation where the compute capabilities of GPUs provide exceptional flexibility and performance. Combined with our open software, Radeon Open Ecosystem Compute Platform (ROCm), we believe are delivering acceleration platforms to address intensive"
+      },
+      {
+        "text": "In July 2017, we introduced our new professional graphics cards, Radeon™ Pro WX 9100 and Radeon™ Pro SSG, based on the “Vega”GPU architecture. The Radeon Pro WX 9100 uses 16 GB of high-bandwidth cache and harnesses the high-bandwidth cache controller (HBCC) and advanced GPU memory architecture. The Radeon™ Pro SSG offers 2TB onboard solid state graphics (SSG) memory alongside the “Vega” GPU architecture. In addition, our Radeon Pro Software Adrenalin Edition supports Linux ® . The Linux version of this driver combines an open-source core and AMD Radeon Pro graphics' technologies and performance. In 2017, we launched the Radeon Instinct MI25 server accelerator targeting data center applications including machine learning, deep learning, and artificial intelligence."
+      }
+    ]
+  }
+}

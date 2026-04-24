@@ -1,0 +1,31 @@
+{
+  "cik": "0001107843",
+  "filings": {
+    "2018": [
+      {
+        "text": "We were founded and incorporated in December 1999 with a vision of transforming the way organizations secure and protect their IT infrastructure and applications and initially launched our first cloud solution, Vulnerability Management (VM), in 2000. As VM gained acceptance, we introduced new solutions to help customers manage increasing IT security and compliance requirements. Today, the suite of solutions offered on our cloud platform, which we refer to as the Qualys Cloud Apps, includes: Asset Inventory (AI), CMDB Sync (SYN), VM, Continuous Monitoring (CM), Cloud Agent Platform (CAP), Threat Protection (TP), Security Configuration Assessment (SCA), Indication of Compromise (IOC), Policy Compliance (PC), PCI Compliance (PCI), Security Assessment Questionnaire (SAQ), File Integrity Monitoring (FIM), Web Application Scanning (WAS) and Web Application Firewall (WAF)."
+      },
+      {
+        "text": "O ur Qualys cloud platform is currently used by over 10,300 customers in more than 130 countries, including a majority of each of the Forbes Global 100 and Fortune 100. Our revenues increased from $164.3 million in 2015 to $197.9 million in 2016 , and reached $230.8 million in 2017 . Our VM solutions (including VM, AI, SYN, CM, TP, Cloud Agent for VM, allocated scanner revenue and Qualys Private Cloud Platform) have provided a substantial majority of our revenues to date, representing 75% , 76% and 77% of total revenues in 2017, 2016 and 2015 , respectively. We generated net income of $40.4 million in 2017, $19.2 million in 2016 and $15.9 million in 2015. Total assets as of December 31, 2017 and 2016 were $537.5 million and $407.0 million, respectively."
+      },
+      {
+        "text": "Asset Tagging and Management. Enables customers to easily identify, categorize and manage large numbers of assets in highly dynamic IT environments and automates the process of inventory management and hierarchical organization of IT assets. Built on top of this core service is the Qualys AI framework, which is a global asset inventory service enabling our customers to search for information on any IT asset, scaling to millions of assets for customers of all sizes, helping IT and security personnel to search IT assets and maintain an up-to-date inventory on a continuous basis."
+      },
+      {
+        "text": "Our suite of Cloud Apps currently includes: AI, SYN, VM, CM, CAP, TP, SCA, IOC, PC, PCI, SAQ, FIM, WAS and WAF."
+      },
+      {
+        "text": "Asset Inventory (AI): AI provides a complete, continuously updated inventory of a customer’s IT assets everywhere: on premises, in clouds or at mobile endpoints. It lists assets’ installed software, existing vulnerabilities and hardware details. A powerful search engine enables ad hoc queries and refines such queries. In addition to Qualys’ network scanners, AI leverages our Cloud Agents, which are lightweight, self-updating and run in the background. These Cloud Agents continuously enable the assessment of the compliance and security status of customer assets, including intermittently connected assets, without the need for scan windows or credential management."
+      },
+      {
+        "text": "CMDB Sync (SYN): This certified application synchronizes AI data with ServiceNow’s Configuration Management system. Device changes are immediately transmitted to the Qualys cloud platform and then synchronized with ServiceNow. For customers, this means an end to unidentified and misclassified assets and to data update delays, all of which decrease chances of breaches. SYN provides real-time, comprehensive visibility of IT asset inventories enabling immediate detection of security and compliance risks ."
+      },
+      {
+        "text": "Continue to innovate and enhance our cloud platform and suite of solutions. We intend to continue to make significant investments in research and development to extend our cloud platform’s functionality by developing new security solutions and capabilities and further enhancing our existing suite of solutions. From inception through December 31, 2016, we have added the following solutions: VM, PCI, PC, WAS, WAF, CM, CAP, AI, SYN, SAQ and TP. In 2017, we introduced a number of new offerings, including FIM, IOC and SCA."
+      },
+      {
+        "text": "We were founded and incorporated in December 1999 with a vision of transforming the way organizations secure and protect their IT infrastructure and applications and initially launched our first cloud solution, Vulnerability Management (VM), in 2000. As VM gained acceptance, we introduced new solutions to help customers manage increasing IT security and compliance requirements. Today, the suite of solutions offered on our cloud platform, which we refer to as the Qualys Cloud Apps, includes: Asset Inventory (AI), CMDB Sync (SYN), VM, Continuous Monitoring (CM), Cloud Agent Platform (CAP), Threat Protection (TP), Security Configuration Assessment (SCA), Indication of Compromise (IOC), Policy Compliance (PC), PCI Compliance (PCI), Security Assessment Questionnaire (SAQ), File Integrity Monitoring (FIM), Web Application Scanning (WAS) and Web Application Firewall (WAF). Our VM solutions (including VM, AI, SYN, CM, TP, Cloud Agent for VM, allocated scanner revenue and Qualys Private Cloud Platform) have provided a substantial majority of our revenues to date, representing 75% , 76% and 77% of total revenues in 2017 , 2016 and 2015 , respectively."
+      }
+    ]
+  }
+}

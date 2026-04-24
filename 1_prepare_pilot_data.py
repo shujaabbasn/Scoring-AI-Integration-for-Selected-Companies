@@ -1,7 +1,8 @@
 import pandas as pd
 
 # Load the manual list we made
-df = pd.read_excel("Final_List_With_CIKs.xlsx")
+# df = pd.read_excel("Final_List_With_CIKs.xlsx")
+df = pd.read_csv("company_ciks.csv")
 
 # Drop rows without CIKs and make them integers
 df = df.dropna(subset=['cik'])

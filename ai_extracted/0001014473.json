@@ -1,0 +1,27 @@
+{
+  "cik": "0001014473",
+  "filings": {
+    "2025": [
+      {
+        "text": "In addition, we are subject to social engineering attacks including phishing, spear phishing, whaling, vishing, smishing, and domain spoofing, which are designed to entice people to divulge sensitive information or take actions that, if successful, could pose a material risk to our operations. The number of such attacks is increasing. Recent advances in artificial intelligence have increased the sophistication of these types of attacks as attackers are able to create more personalized and targeted communications using information derived from people’s relationships, online behavior and preferences. Social engineering attacks have occurred in concert with ransomware attacks. The various measures we take to mitigate cyber-attacks, including our deployment of advanced tools and implementation of redundant architecture and multiple recovery solutions, as well as conducting continuous security awareness training to address social engineering attacks and periodic exercises to mitigate the threat of ransomware cannot provide absolute security. We still may be subject to successful cyber attacks. Our failure to prevent such attacks, including any successful social engineering attack, could result in our inability to meet our service level agreements and could otherwise materially harm our business, including from legal claims, governmental investigations and scrutiny, injury to our reputation, and increased costs."
+      },
+      {
+        "text": "Technology changes to web browser or internet search technologies could reduce demand for domain names. Similarly, if internet users’ preferences or practices shift away from recognizing and relying on web addresses or if internet users were to significantly decrease the use of web browsers in favor of applications to locate and access content, demand for domain names in the gTLDs we operate could be negatively impacted. Demand for domain names in the gTLDs we operate could be negatively impacted by new technologies that significantly decrease the use of traditional domain names to present and protect an online identity. New technologies that encourage internet users to expand the use of third-level domains or alternative identifiers, such as identifiers from social networking, e-commerce platforms and microblogging sites, could also negatively impact the demand for domain names in the gTLDs we operate. In addition, the demand for domain names in the gTLDs we operate could be impacted by alternative namespaces with domain-name-like identifiers that are operated outside the single authoritative DNS root zone, including blockchain namespaces. To the extent that web browsers, applications, DNS registrars and DNS resolvers recognize and support such namespaces, and that internet users are able to perform online operations with identifiers from such namespaces, demand for domain names in gTLDs and ccTLDs in the single authoritative DNS root zone, including the gTLDs we operate, could be negatively impacted. To the extent that alternative namespaces introduce user confusion about the relationship between identical or similar-looking identifiers in these namespaces and domain names in the DNS, demand for domain names and user confidence in the value of domain names as unique identifiers could also be negatively impacted. In addition, applications using artificial intelligence could be transformational in ways that cannot be predicted at this time. To the extent such applications impact the demand for domain names, it could have a material impact on our business."
+      }
+    ],
+    "2016": [],
+    "2018": [],
+    "2023": [],
+    "2022": [],
+    "2019": [],
+    "2021": [],
+    "2020": [],
+    "2017": [],
+    "2024": [
+      {
+        "text": "In addition, we are subject to social engineering attacks including phishing, spear phishing, whaling, vishing, smishing, and domain spoofing, which are designed to entice people to divulge sensitive information or take actions that, if successful, could pose a material risk to our operations. The number of such attacks is increasing. Recent advances in artificial intelligence have increased the sophistication of these types of attacks as attackers are able to create more personalized and targeted communications using information derived from people’s relationships, online behavior and preferences. Social engineering attacks have occurred in concert with ransomware attacks. While we deploy advanced tools and conduct continuous security awareness training to address social engineering attacks, such measures cannot provide absolute security. Similarly, although we implement redundant architecture and multiple recovery solutions, and conduct periodic exercises to mitigate the threat of ransomware, we still may be subject to successful ransomware attacks. Our failure to prevent such attacks, including any successful social engineering attack, could result in our inability to meet our service legal agreements and could otherwise materially harm our business, including from legal claims, governmental investigations and scrutiny, injury to our reputation, and increased costs."
+      }
+    ],
+    "2015": []
+  }
+}

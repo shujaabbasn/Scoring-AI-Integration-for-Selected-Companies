@@ -1,0 +1,55 @@
+{
+  "cik": "0000814547",
+  "filings": {
+    "2018": [
+      {
+        "text": "Fair Isaac Corporation (NYSE: FICO) (together with its consolidated subsidiaries, the “Company,” which may also be referred to in this report as “we,” “us,” “our,” and “FICO”) provides products, solutions and services that enable businesses to automate, improve and connect decisions to enhance business performance. Our predictive analytics, which includes the industry-standard FICO ® Score, and our decision management systems leverage the use of big data and mathematical algorithms to predict consumer behavior and power hundreds of billions of customer decisions each year."
+      },
+      {
+        "text": "Analytics, which include predictive analytics that identify risks and opportunities associated with individual customers, prospects and transactions, in order to detect patterns such as risk and fraud, as well as optimization analytics that are used to improve the design of decision logic or “strategies.”"
+      },
+      {
+        "text": "Our customer strategy management products and services enable businesses to automate and improve risk-based decisions for their existing customers. These solutions help businesses apply advanced analytics in account and customer decisions to increase portfolio revenue, decrease risk exposure and losses, and reduce customer attrition, while improving operational efficiencies."
+      },
+      {
+        "text": "FICO ® TRIAD ® Customer Manager, a leading credit management system, is available both on premises and in the FICO ® Analytic Cloud. The solution is an adaptive control system, which enables businesses to rapidly adapt to changing business and internal conditions by designing and testing new strategies in a “champion/challenger” environment. The current version enables users to manage risk and communications at both the account and customer level from a single platform. FICO ® Strategy Director, which helps organizations proactively manage consumer accounts to increase revenue, decrease risk and improve customer retention, is offered both on premises and in AWS. FICO’s methodology for segmentation and deployment of predictive analytics enables institutions to deliver faster, fully automated and compliant decisions for a broad range of banking challenges based on each customer’s risk and relationship value."
+      },
+      {
+        "text": "Our leading fraud detection solution is the FICO ® Falcon ® Platform, recognized as a leader in global payment card fraud detection. The Falcon ® Platform examines transaction, cardholder, account, customer, device and merchant data to detect a wide range of payment card fraud quickly and accurately utilizing artificial intelligence technology. It analyzes payment transactions in real time, assesses the risk of fraud in a fraud score, and provides the ability for user-defined variables and rules strategies to be used in conjunction with the fraud score to prevent fraud while expediting legitimate transactions. Adaptive analytics, a form of self-learning models, can also be employed to accelerate our customers’ response to evolving fraud tactics."
+      },
+      {
+        "text": "FICO’s cybersecurity products utilize predictive analytics to deliver enterprise-level risk assessments as well as prioritization of tactical cyber threat response. The FICO ® Enterprise Security Score provides an empirically derived score that conveys the security posture of an organization and the likelihood of a material data breach in the next twelve months. The score is used to manage the cyber risk of an enterprise as well as risks introduced by trusted business partners. Separately, FICO ® Falcon ® Cybersecurity Analytics utilizes advanced streaming self-learning models to help organizations detect and remediate cyber-attacks by reducing the dwell time between when an attack occurs and when it is recognized. "
+      },
+      {
+        "text": "FICO ® Debt Manager ™ solution, FICO ® Debt Manager ™ Pro, FICO ® Debt Manager ™ Pro Plus, FICO ® PlacementsPlus ® service and Placement Optimizer SM solution automate the full cycle of collections and recovery, including early collections, late collections, asset disposal, agency placement and optimization, recovery, litigation, bankruptcy, asset management and residual balance recovery. PlacementsPlus service facilitates control over the distribution and management of accounts to agencies, attorneys, debt buyers and internal recovery departments. Placement Optimizer maximizes the effectiveness of the placement strategy once accounts are outsourced. FICO Debt Management Solutions also include assessments, models and scores, predictive analytics, advanced customer engagement and optimization. FICO ® Debt Manager ™ is available both on premises and in the FICO ® Analytic Cloud."
+      },
+      {
+        "text": "We perform custom predictive, descriptive and decision modeling and related analytic projects for clients in multiple industries to address business processes across the customer life cycle. This work leverages our analytic methodologies and expertise to solve risk management and marketing challenges for a single business, using that business’s data and industry best practices to develop a highly customized solution. Most of this work falls under predictive analytics, decision analysis and optimization, which provide greater insight into customer preferences and future customer behavior. Within decision analysis and optimization, we apply data and proprietary algorithms to the design of customer treatment strategies."
+      },
+      {
+        "text": "FICO ® Analytics Workbench, a new general-purpose predictive analytics modeling and data wrangling tool with FICO proprietary IP to provide explainable artificial intelligence capabilities; and"
+      },
+      {
+        "text": "The FICO ® Decision Management Suite combines big data, predictive analytics and decision execution together in an easy-to-use development environment. It enables organizations to rapidly create innovative analytic applications; dramatically increase developer and business user productivity with support for a broad range of analytic and decision tools; and execute decisions in real time. It also empowers business analysts and other domain experts to modify systems in real time without IT involvement, providing organizations with the agility they need to rapidly respond to customer, regulatory and business changes."
+      },
+      {
+        "text": "neural network developers and artificial intelligence system builders;"
+      },
+      {
+        "text": "We believe our competitors are unable to provide the mix of products, expertise in predictive analytics and their integration with decision management software, and enhanced customer management capabilities we are able to deliver. However, certain competitors may have larger shares of particular geographic or product markets than we do."
+      },
+      {
+        "text": "We are widely recognized as a leader in predictive analytics due to our pioneering work in credit scoring and fraud detection. We believe that our tools and processes are among the very best commercially available, and that we are uniquely able to integrate advanced analytic, software and data technologies into mission-critical business solutions that offer superior returns on investment."
+      },
+      {
+        "text": "In fiscal 2018, we continued to make progress with our FICO ® Analytic Cloud and FICO ® Decision Management Platform initiatives. Most significantly for the fiscal year, we have added distinct FICO IP into tools to develop explainable artificial intelligence or xAI. In addition, we have made many of our software solutions, which were previously available only as on-premises software installations, into SaaS solutions hosted on the FICO ® Analytic Cloud and/or in AWS. The FICO ® Decision Management Suite enables clients to use FICO tools, along with rapid application development tools and visualization tools, to quickly develop their own decision management applications and services. We continue to add functionality to the platform as well as host additional FICO applications in the cloud. These ongoing initiatives are driven by enhancing our core technical capabilities listed below, and extending them through partnerships with other technology providers as well as through employing open source software."
+      },
+      {
+        "text": "These include proprietary applications of both linear and nonlinear mathematical programming algorithms, in which one objective is optimized within a set of constraints, and advanced neural systems, which learn complex patterns from large data sets to predict the probability that a new individual will exhibit certain behaviors of business interest. We also apply various related statistical techniques for analysis and pattern detection within large datasets, and have enhanced our abilities to derive insights and predictive variables from various forms of so-called big data, including unstructured data, such as text. We have enhanced our predictive analytic capabilities to include the development of machine learning algorithms and artificial intelligence. FICO has focused on making artificial intelligence explainable to auditors, developers and decision makers."
+      },
+      {
+        "text": "In its raw form, this data is very difficult to use in predictive models for several reasons. First, an isolated transaction contains very little information about the behavior of the individual who generated the transaction. In addition, transaction patterns change rapidly over time. Finally, this type of data can often be highly complex. To overcome these issues, we have developed a set of techniques that transform raw transactional data into a mathematical representation that reveals latent information, and which make the data more usable by predictive models. This profiling technology accumulates data across multiple transactions of many types to create and update profiles of transaction patterns. These profiles enable our neural network models to efficiently and effectively make accurate assessments of, for example, fraud risk and credit risk within real-time transaction streams."
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cik": "0001443646",
+  "filings": {
+    "2018": [
+      {
+        "text": "Analytics focuses on delivering transformational solutions in the areas of decision analytics (including operations research and cost estimation), automation, and data science (including predictive modeling and machine learning) as well as new or emerging areas such as deep learning and artificial intelligence. We pioneer new approaches to apply analytic technology to clients' problems, draft industry-defining publications, and introduce transformative products such as graphics processing unit (GPU) accelerated deep learning software, to the market."
+      },
+      {
+        "text": "Digital Solutions combines the power of modern systems development techniques and cloud platforms with the power of machine learning to transform customer and mission experiences. We blend in-depth client mission understanding and digital technical expertise with a consultative approach. We develop, design, and implement powerful solutions built on contemporary methodologies and modern architectures. We accelerate clients to open, cloud native environments, where capability can be securely developed and deployed at scale, and effort allocated towards data management challenges is redirected to analysis and insights."
+      },
+      {
+        "text": "Machine Intelligence applies and scales the use of machine learning and artificial intelligence to fundamentally transform how our clients perform their missions and run their organizations in a future where people and increasingly intelligent machines collaborate to solve our hardest problems. We are continuing to develop new capabilities in exciting areas, such as quantum computing and deep learning, to create long-term differentiation and value."
+      },
+      {
+        "text": "changes in the relative mix of overall U.S. government spending and areas of spending growth, with shifts in priorities on homeland security, intelligence, defense-related programs, and healthcare, and continued increased spending on technology and innovation including cybersecurity, Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR), advanced analytics, systems modernization and integration;"
+      }
+    ]
+  }
+}

@@ -16,8 +16,9 @@ import argparse
 
 # Files
 # AI_FILE = "ai_scores_intensity.jsonl"
-AI_FILE = "llm_outputs/adoption_output.jsonl"
-TRUTH_FILE = "Pilot_Truth_Data.csv"
+AI_FILE = "llm_outputs/compact_results.jsonl"
+# TRUTH_FILE = "Pilot_Truth_Data.csv"
+TRUTH_FILE = "truth_data.csv"
 REPORT_FILE = "Batch_A_Report.xlsx"
 STATS_FILE = "Batch_A_Stats.txt"
 
@@ -107,14 +108,22 @@ def validate_adoption(aifile):
 
         print(f"📄 Stats saved to: {STATS_FILE}")
 
+        
+
     else:
         print("⚠️ Not enough data for correlation.")
+
     coef = np.polyfit(
     merged["ai_adoption_score"],
     merged["truth_score"],
     1
     )
 
+    print("📈 Polynomial Fit Parameters:")
+    print(f"   Coefficient (Slope): {coef[0]:.4f}")
+    print(f"   Y-Intercept:         {coef[1]:.4f}")
+    print(f"   Equation: y = {coef[0]:.4f}x + {coef[1]:.4f}\n")
+    
     # Predicted truth
     merged["predicted_truth"] = (
         coef[0] * merged["ai_adoption_score"] + coef[1]

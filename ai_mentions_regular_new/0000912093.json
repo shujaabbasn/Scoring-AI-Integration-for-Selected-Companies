@@ -1,0 +1,88 @@
+{
+  "cik": "0000912093",
+  "filings": {
+    "2021": [],
+    "2009": [],
+    "2018": [],
+    "2023": [
+      {
+        "text": "Our SE solutions are embedded network systems, including instruments, microprobes and software that collect and analyze network data to reveal the actual customer experience and identify opportunities for new revenue streams and network optimization. These solutions provide our customers enhanced network management, control, optimization and differentiation and a complete service assurance platform for mobile communications, providing operators with network performance, inventory, configuration and fault management solutions through artificial intelligence driven key performance indicator analysis. Our customers are able to access and analyze the growing amount of network data from a single console, simplifying the process of deploying, provisioning and managing network equipment and services. These capabilities allow network operators to initiate service to new customers faster, decrease the need for technicians to make on-site service calls, and help to make necessary repairs faster, which lowers costs while providing higher quality and more reliable services."
+      },
+      {
+        "text": "The increase in demand for 5G services will be increasingly supported by automation and associated artificial intelligence and machine learning, which will further enable enterprise requirements for private 5G as well as numerous use cases such as remote working and energy efficiency. Such increases in demand for pervasive on-premise/off-premise services will further drive the need for cybersecurity. Further adoption of 5G will require optical fiber upgrades and buildouts driven by traditional CSPs as well as enterprise networks. Hyperscale service providers have become significant drivers of technology innovation, including optical fiber up to 800GbE. The scale and complexity of these technology shifts are also challenging service providers to rearchitect their networks, becoming more virtualized, and optimized based on real-time intelligence. We believe these investments will extend fiber connectivity beyond the office and home and permeate “fiber-to-the-everywhere” leading to potential new business opportunities for VIAVI."
+      },
+      {
+        "text": "These measures, along with any additional tariffs or other trade actions that may be implemented, may increase the cost of certain materials and/or products that we import from China, thereby adversely affecting our profitability. These actions could require us to raise our prices, which could decrease demand for our products. As a result, these actions, including potential retaliatory measures by China and further escalation into a potential “trade war”, may adversely impact our business. While recent US export controls on China’s semiconductor and artificial intelligence industries may have an indirect impact on VIAVI, the implications of such controls are still being evaluated and are not expected to have a material impact on our consolidated annual revenues."
+      }
+    ],
+    "2020": [],
+    "2016": [],
+    "2015": [],
+    "2017": [],
+    "2014": [],
+    "2025": [
+      {
+        "text": "– Wireless: 5G-to-6G evolution, Open Radio Access Network (ORAN), AI-RAN, RAN optimization, private 5G networks and intelligent edge; and"
+      },
+      {
+        "text": "– Transform and extend SE business unit through cloud-centric architecture, artificial intelligence (AI) and machine learning (ML), analytics, automation and security."
+      },
+      {
+        "text": "Our solutions address lab and production environments, network management, service assurance and artificial intelligence for IT operations (AIOps) for any kind of network, including wireless, wireline, cloud, satellite, public safety, military and critical infrastructure. Our test instrument portfolio is one of the largest in the industry, with millions of units in active use by service providers and network equipment manufacturers (NEMs) worldwide."
+      },
+      {
+        "text": "Our AIOps solutions portfolio leverages AI, ML and big data analytics to automate and enhance end-to-end, multi-domain network operations and automation. Our Network Performance and Threat Solutions (NPTS) portfolio helps enterprise IT and security teams monitor and optimize connectivity for their employees and conducts preventative and forensic analysis to address rising network and security challenges from remote work."
+      },
+      {
+        "text": "In the wireless sector, 5G networks are evolving as service providers deploy 5G Standalone (5GSA) with 5G-specific core networks, enabling differentiated services through network slicing and private networks. The formal inclusion of non-terrestial networks in the 3GPP standards has led to a rise in collaboration between the wireless and satellite sectors and the introduction of satellite-based services including direct-to-cell and satellite broadband. The industry is conducting research to define the path to 6G along vectors including AI across all network functions, new frequency bands, integrated sensing and communications, multiple access and ray tracing."
+      },
+      {
+        "text": "Growth forecasts are subject to significant uncertainty and are based on assumptions and estimates which may not prove to be accurate. Our estimates of the market opportunities related to network infrastructure, 3D sensing and other developing technologies, including AI, are subject to significant uncertainty and are based on assumptions and estimates, including our internal analysis, industry experience and third-party data. Accordingly, these markets may not develop in the manner or in the time periods we anticipate, and our estimated market opportunities may prove to be materially inaccurate."
+      },
+      {
+        "text": "The use of open-source software and generative artificial intelligence may expose us to risks and harm our intellectual property position."
+      },
+      {
+        "text": "Certain of the software and/or firmware that we use and distribute (as well as that of our suppliers, manufacturers and customers) may be, derived from, or contain, “open-source” software, which is software that is generally made available to the public by its authors and/or other third parties, as well as generative artificial intelligence (GenAI) technology (discussed further below). Such open-source software is often made available under licenses which impose obligations in the event the software or derivative works thereof are distributed or re-distributed. These obligations may require us to make source code for the derivative works available to the public, and/or license such derivative works under a particular type of license, rather than the forms of license customarily used to protect our own software products. In the event that a court rules that these licenses are unenforceable, or in the event the copyright holder of any open-source software were to successfully establish in court that we had not complied with the terms of a license for a particular work, we could be required to release the source code of that work to the public and/or stop distribution of that work. Additionally, open-source licenses are subject to occasional revision. In the event future iterations of open-source software are made available under a revised license, such license revisions may adversely affect our ability to use such future iterations."
+      },
+      {
+        "text": "Similarly, GenAI technology has proliferated including as a feature in existing commercially available products, some of which we use. GenAI is a type of machine-learning model capable of generating various types of content, including data, text and images. Use of GenAI tools could expose us to data and network security risks. These risks include the exposure of our intellectual property, confidential and proprietary information (including customer information) to unknown recipients; the introduction of malware into our network; and the creation of content subject to copyright, trademark, or other intellectual property protection of an unknown third party."
+      }
+    ],
+    "2019": [],
+    "2022": [
+      {
+        "text": "The increase in demand for 5G services will be increasingly supported by automation and associated artificial intelligence and machine learning, which will further enable enterprise requirements for private 5G as well as numerous use cases such as remote working and energy efficiency. Such increases in demand of pervasive on-premise/off-premise services will further drive the need for cybersecurity. Further adoption of 5G will require optical fiber upgrades and buildouts driven by traditional CSPs as well as enterprise networks. Hyperscale service providers have become significant drivers of technology innovation, including optical fiber up to 800GbE. The scale and complexity of these technology shifts are also challenging service providers to rearchitect their networks, becoming more virtualized, and optimized based on real-time intelligence. We believe these investments will extend fiber connectivity beyond the office and home and permeate “fiber-to-the-everywhere” leading to potential new business opportunities for VIAVI."
+      }
+    ],
+    "2007": [],
+    "2012": [],
+    "2010": [],
+    "2011": [],
+    "2008": [],
+    "2024": [
+      {
+        "text": "Our NE solutions include instruments and software that support the development and production of network systems in the lab. These solutions activate, certify, troubleshoot and optimize networks that are differentiated through superior efficiency, reliable performance and greater customer satisfaction. Designed to be mobile, these products include instruments and software that access the network to perform installation and maintenance tasks. They help service provider technicians assess the performance of network elements and segments and verify the integrity of the information being transmitted across the network. These instruments are enhanced with artificial intelligence and machine learning and built-in automation and analytics with user interfaces that are designed to simplify operations and minimize the training required to operate them. Our NE solutions are also used by NEMs in the design and production of next-generation network equipment. Thorough testing by NEMs plays a critical role in producing the components and equipment that are the building blocks of network infrastructure. We leverage our installed base and knowledge of network management methods and procedures to develop these advanced customer experience solutions."
+      },
+      {
+        "text": "Our SE solutions are embedded network systems, including instruments, microprobes and software that collect and analyze network data to reveal the actual customer experience and identify opportunities for new revenue streams and network optimization. These solutions provide our customers enhanced network management, control, optimization and differentiation and a complete service assurance platform for mobile communications, providing operators with network performance, inventory, configuration and fault management solutions through artificial intelligence driven key performance indicator analysis. Our customers are able to access and analyze the growing amount of network data from a single console, simplifying the process of deploying, provisioning and managing network equipment and services. These capabilities allow network operators to initiate service to new customers faster, decrease the need for technicians to make on-site service calls, and help to make necessary repairs faster, which lowers costs while providing higher quality and more reliable services."
+      },
+      {
+        "text": "Assurance : Primarily consisting of our growth products (Nitro Geo, NITRO Mobile and AI Ops products) and mature products."
+      },
+      {
+        "text": "We believe the increase in demand for 5G services will be increasingly supported by automation and associated artificial intelligence and machine learning, which will further enable enterprise requirements for private 5G as well as numerous use cases such as remote working and energy efficiency. Such increases in demand for pervasive on-premise/off-premise services will further drive the need for cybersecurity. Further adoption of 5G will require optical fiber upgrades and buildouts driven by traditional CSPs as well as enterprise networks. Hyperscale service providers have become significant drivers of technology innovation, including optical fiber up to 800GbE. The scale and complexity of these technology shifts are also challenging service providers to rearchitect their networks, becoming more virtualized, and optimized based on real-time intelligence. We believe these investments will extend fiber connectivity beyond the office and home and permeate “fiber-to-the-everywhere” leading to potential new business opportunities for VIAVI."
+      },
+      {
+        "text": "The use of open-source software and generative artificial intelligence may expose us to risks and harm our intellectual property position."
+      },
+      {
+        "text": "Certain of the software and/or firmware that we use and distribute (as well as that of our suppliers, manufacturers and customers) may be, derived from, or contain, “open-source” software, which is software that is generally made available to the public by its authors and/or other third parties, as well as generative artificial intelligence (GenAI) technology (discussed further below). Such open-source software is often made available under licenses which impose obligations in the event the software or derivative works thereof are distributed or re-distributed. These obligations may require us to make source code for the derivative works available to the public, and/or license such derivative works under a particular type of license, rather than the forms of license customarily used to protect our own software products. In the event that a court rules that these licenses are unenforceable, or in the event the copyright holder of any open-source software were to successfully establish in court that we had not complied with the terms of a license for a particular work, we could be required to release the source code of that work to the public and/or stop distribution of that work. Additionally, open-source licenses are subject to occasional revision. In the event future iterations of open-source software are made available under a revised license, such license revisions may adversely affect our ability to use such future iterations."
+      },
+      {
+        "text": "Similarly, GenAI technology has proliferated including as a feature in existing commercially available products, some of which we use. GenAI is a type of machine-learning model capable of generating various types of content, including data, text and images. Use of GenAI tools could expose us to data and network security risks. These risks include the exposure of our intellectual property, confidential and proprietary information (including customer information) to unknown recipients; the introduction of malware into our network; and the creation of content subject to copyright, trademark, or other intellectual property protection of an unknown third party."
+      }
+    ],
+    "2013": []
+  }
+}
